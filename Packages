@@ -1,0 +1,16 @@
+Package: com.skylerk99.greenbat
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.greenbat_1.1.1_iphoneos-arm.deb
+Size: 54642
+MD5sum: fe1117a9f2a4aa319f63da09976e4a1a
+SHA1: 715a644eaea60a250953ce3b808dfae18e0d883b
+SHA256: 511d7d6f899a5c5c77d87795f60a943e6013be54e02c13c24aa60f98ffc9fb6d
+Section: Tweaks
+Description: Change status bar battery color. works on iOS 7/8.
+Author: Skyler Kansala
+Name: AlwaysGreen
+
