@@ -1,5 +1,5 @@
 Package: com.skylerk99.greenbat
-Version: 1.1.1
+Version: 1.1.1b
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 256
@@ -15,7 +15,7 @@ Author: Skyler Kansala
 Name: AlwaysGreen
 
 Package: com.skylerk99.noMSB
-Version: 1.0
+Version: 1.0b
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
@@ -31,7 +31,7 @@ Author: Skyler Kansala
 Name: NoMusicStatusbar
 
 Package: com.skylerk99.noburst
-Version: 1-3
+Version: 1-3b
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
@@ -47,7 +47,7 @@ Author: Skyler Kansala
 Name: BurstFree
 
 Package: com.skylerk99.nonowarror
-Version: 1.0
+Version: 1.0b
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
@@ -63,7 +63,7 @@ Author: Skyler Kansala
 Name: NoMusicArrow
 
 Package: com.skylerk99.notate
-Version: 1.1-3
+Version: 1.1-3b
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
@@ -79,7 +79,7 @@ Author: Skyler Kansala
 Name: Notate
 
 Package: com.skylerk99.portraitwp
-Version: 0.0.1-11
+Version: 0.0.1-11b
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
@@ -111,7 +111,7 @@ Author: Skyler Kansala
 Name: PowerColor
 
 Package: com.skylerk99.sbflip
-Version: 0.1.3-62
+Version: 0.1.3-62b
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 232
