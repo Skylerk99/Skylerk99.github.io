@@ -14,6 +14,22 @@ Description: Change status bar battery color. works on iOS 7/8.
 Author: Skyler Kansala
 Name: AlwaysGreen
 
+Package: com.skylerk99.noMSB
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.noMSB_1.0_iphoneos-arm.deb
+Size: 3216
+MD5sum: d4d9ff56abb8bb55f4113280c318ea29
+SHA1: 0a77c48aacb67402022d91843fa52c660b314683
+SHA256: 3ebba8a609812734433ccddd65d83dcbd61b078f9788c1899bf4d5a2dd3a633f
+Section: Tweaks
+Description: Removes now playing status bar from 8.4 music app.
+Author: Skyler Kansala
+Name: NoMusicStatusbar
+
 Package: com.skylerk99.noburst
 Version: 1-3
 Architecture: iphoneos-arm
