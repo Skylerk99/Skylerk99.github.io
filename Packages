@@ -26,7 +26,7 @@ MD5sum: 5275efb1504b8e378700da12ca5962c6
 SHA1: 07971bfec07fce939da939dbb7b09fca4dc01bfc
 SHA256: 6300bb4d2f28be97d15e4920dc1154af8ce51eb0895f2d561694a9a94530056d
 Section: Tweaks
-Description: Removes the redundant down arrow on 8.4 music Now Playing sreen.
+Description: Removes the redundant down arrow on 8.4 music Now Playing screen.
 Author: Skyler Kansala
 Name: NoMusicArrow
 
