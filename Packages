@@ -14,6 +14,22 @@ Description: Change status bar battery color. works on iOS 7/8.
 Author: Skyler Kansala
 Name: AlwaysGreen
 
+Package: com.skylerk99.musicMod
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.musicMod_1.0_iphoneos-arm.deb
+Size: 37304
+MD5sum: 21701509050e1483d976176bff119323
+SHA1: 226dfaff66aa529d7d0aaf2173e0bf4668bba3ab
+SHA256: 8bcf3abe76d1404b7fa66666153707157185b764ee8adc0919e3d06396912f13
+Section: Tweaks
+Description: Misc tweaks for 8.4 Apple Music
+Author: Skyler Kansala
+Name: MusicMod-8.4
+
 Package: com.skylerk99.noMSB
 Version: 1.0
 Architecture: iphoneos-arm
@@ -125,4 +141,5 @@ Section: Tweaks
 Description: Springboard rotation enabling and options.
 Author: Skyler Kansala
 Name: SBFlip
+
 
