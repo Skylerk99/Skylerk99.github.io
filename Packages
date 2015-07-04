@@ -15,18 +15,18 @@ Author: Skyler Kansala
 Name: AlwaysGreen
 
 Package: com.skylerk99.musicMod
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 192
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.musicMod_1.4_iphoneos-arm.deb
-Size: 38128
-MD5sum: 6c96ac416fddc6de41f75c21978c37a3
-SHA1: c4b1492d90efa70a07503be4d661efa3ce0cffaa
-SHA256: 37e31e008d60a538019537ea8b848319d14f62a483ea1b378149be0e5f7987ca
+Filename: debs//com.skylerk99.musicMod_1.5_iphoneos-arm.deb
+Size: 38130
+MD5sum: 80de9ca25a4e07b1ac42d75f85552766
+SHA1: 46da9647a98593e444457371a9db5af8bf0fa614
+SHA256: a88a24ab1f7c593ea9c08e884eeacd095f3a8827d1f0b6fd645802f5c34493fd
 Section: Tweaks
-Description: Misc tweaks for 8.4 Apple Music. update 5.
+Description: Misc tweaks for 8.4 Apple Music. update 6
 Author: Skyler Kansala
 Name: MusicMod-8.4
 
