@@ -1,3 +1,19 @@
+Package: com.skylerk99.cocflip
+Version: 0.0.1-10
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.cocflip_0.0.1-10_iphoneos-arm.deb
+Size: 8190
+MD5sum: 3474f3ff13a160b382a1f1cbad03b4ed
+SHA1: e11e74b898be68c91b1ab22304bbea0e0567954d
+SHA256: 9900bf5405672b31941bc38ca38f3fae0d81a40d58372296f0b0694fe8d8ca90
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Skyler Kansala
+Name: CoC Flipper
+
 Package: com.skylerk99.musicMod
 Version: 1.6
 Architecture: iphoneos-arm
