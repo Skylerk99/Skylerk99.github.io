@@ -21,14 +21,14 @@ Maintainer: Skyler Kansala
 Installed-Size: 192
 Depends: mobilesubstrate
 Filename: debs//com.skylerk99.musicMod_1.6_iphoneos-arm.deb
-Size: 38162
-MD5sum: 3a785bf28273ae9a494b4a244ea4c2e3
-SHA1: ade01c837c338bed09050f84a675784da14bb26c
-SHA256: 92e4b870251415f2f2f0f18abff77ead4e42d8f4bd6ffc676d0c41b7ad2b5f19
+Size: 38164
+MD5sum: df0760c83650c95aee4f3e24a0471b0e
+SHA1: 713a09b8bb219e1dc0516b9c75cefb6061d463d9
+SHA256: fff7b46a496e83443b3984a04d62cd7c5dbabc2879b2e4d6d3d83311860d0368
 Section: Tweaks
 Description: Misc tweaks for 8.4 Apple Music. update 7
-Author: Skyler KansalaName: MusicMod-8.4
-
+Author: Skyler Kansala
+Name: MusicMod-8.4
 
 Package: com.skylerk99.noMSB
 Version: 1.0
@@ -74,12 +74,12 @@ MD5sum: 5275efb1504b8e378700da12ca5962c6
 SHA1: 07971bfec07fce939da939dbb7b09fca4dc01bfc
 SHA256: 6300bb4d2f28be97d15e4920dc1154af8ce51eb0895f2d561694a9a94530056d
 Section: Tweaks
-Description: Removes redundant down arrow on now playing screen. iOS 8.4
+Description: An awesome MobileSubstrate tweak!
 Author: Skyler Kansala
 Name: NoMusicArrow
 
 Package: com.skylerk99.notate
-Version: 0.1.1-3
+Version: 1.1-3
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
@@ -95,7 +95,7 @@ Author: Skyler Kansala
 Name: Notate
 
 Package: com.skylerk99.portraitwp
-Version: 0.0.0.1-11
+Version: 0.0.1-11
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
@@ -106,7 +106,7 @@ MD5sum: 61b169a015a46772715ee048d2aadd1c
 SHA1: 715f0558e5f13f9b6625677ad0ccafdef4a5fea0
 SHA256: edf4de6544deec1823e35a16d6eb3413ab8a21cb40768be47eea189dbe0c40ab
 Section: Tweaks
-Description: Forces portrait wallpaper.
+Description: An awesome MobileSubstrate tweak!
 Author: Skyler Kansala
 Name: PortraitWallpaper
 
@@ -127,7 +127,7 @@ Author: Skyler Kansala
 Name: PowerColor
 
 Package: com.skylerk99.sbflip
-Version: 0.0.1.3-62
+Version: 0.1.3-62
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 232
@@ -138,7 +138,7 @@ MD5sum: 328450114b1b038bab0cf2a87be7bfc2
 SHA1: 80e3b120ae95054f5307e6029b1b9fa91a968ae0
 SHA256: 374e230e36b675169e1669a90f29e7cac6b5541494fc638f6a1f616306d055e0
 Section: Tweaks
-Description: Springboard rotation enabling and options.
+Description: An awesome MobileSubstrate tweak!
 Author: Skyler Kansala
 Name: SBFlip
 
