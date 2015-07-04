@@ -15,18 +15,18 @@ Author: Skyler Kansala
 Name: AlwaysGreen
 
 Package: com.skylerk99.musicMod
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 192
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.musicMod_1.1_iphoneos-arm.deb
-Size: 37946
-MD5sum: a1bcfe8017a081319d30019dba95d114
-SHA1: 5a02507f593a11e3e0170678da6b303f4bc82071
-SHA256: 885ffe5a319ee637f0dadc99c3b0d9b98a2e7c14e38ca6411aa7c7ae95459203
+Filename: debs//com.skylerk99.musicMod_1.2_iphoneos-arm.deb
+Size: 38264
+MD5sum: 35ea365f739c0217e9489b51bda06a2b
+SHA1: ab2b665b980614093ddb3a1d07c181de62ed4884
+SHA256: 2ca107f883b68e5ba37920401ba5bbec0c79004820e65f46d73b7e8e236983d5
 Section: Tweaks
-Description: Misc tweaks for 8.4 Apple Music. update 2.
+Description: Misc tweaks for 8.4 Apple Music. update 3.
 Author: Skyler Kansala
 Name: MusicMod-8.4
 
@@ -141,5 +141,3 @@ Section: Tweaks
 Description: Springboard rotation enabling and options.
 Author: Skyler Kansala
 Name: SBFlip
-
-
