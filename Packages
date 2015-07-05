@@ -1,16 +1,16 @@
 Package: com.skylerk99.cocflip
-Version: 0.0.1-10
+Version: 0.0.1-11
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.cocflip_0.0.1-10_iphoneos-arm.deb
-Size: 8190
-MD5sum: 3474f3ff13a160b382a1f1cbad03b4ed
-SHA1: e11e74b898be68c91b1ab22304bbea0e0567954d
-SHA256: 9900bf5405672b31941bc38ca38f3fae0d81a40d58372296f0b0694fe8d8ca90
+Filename: debs//com.skylerk99.cocflip_0.0.1-11_iphoneos-arm.deb
+Size: 8798
+MD5sum: 51ad04d4aeba73c8b435004e5da7b08e
+SHA1: c58b03eaea3ef5d36f30f04229828542276e0268
+SHA256: 4f6253dd467b262dde59cbc2e38bfdf00508cb4a892322c501cf9bfe86a09750
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Very crude portrait mode on Clash of Clans. Simply shrinks the landscape mode to fit in portrait...
 Author: Skyler Kansala
 Name: CoC Flipper
 
