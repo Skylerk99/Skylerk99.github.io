@@ -15,16 +15,16 @@ Author: Skyler Kansala
 Name: CoC Flipper
 
 Package: com.skylerk99.musicMod
-Version: 1.7
+Version: 1.7.2
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 4056
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.musicMod_1.7_iphoneos-arm.deb
-Size: 3880124
-MD5sum: b500f2b12bd648daf561c233b753d59b
-SHA1: 3b4d92d0457a375aad0e52a56b65119e3ad7e41c
-SHA256: b30ddc3d941fc3ed1bb103d8b66649c76a0cfc9860e752bb8dc800f112bbf446
+Filename: debs//com.skylerk99.musicMod_1.7.2_iphoneos-arm.deb
+Size: 3880040
+MD5sum: c8a3e51959a301b130661f494329be82
+SHA1: bac3894f00a772b7268e92a2af2b3e7516e7732a
+SHA256: d51dd2e99487627534706c1a74e85c51c97a9d6389d6b08647a8516f4f358278
 Section: Tweaks
 Description: Misc tweaks for 8.4 Apple Music. update 7
 Author: Skyler Kansala
