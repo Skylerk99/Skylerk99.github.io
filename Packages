@@ -94,3 +94,19 @@ Description: Battery transitions from green to yellow to red as battery goes fro
 Author: Skyler Kansala
 Name: PowerColor
 
+Package: com.skylerk99.sbflip
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.sbflip_1.4_iphoneos-arm.deb
+Size: 36994
+MD5sum: 2d9afb43d9317e010cecedaf0402a61c
+SHA1: b5629892e09ba647ea7e1a6d59725f97b1082f7a
+SHA256: 0f7b2cbc058498bc8e7e7b0441eea9a4bcf9bb521830ab5c0f992d9d106bfc4c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Skyler Kansala
+Name: SBFlip
+
