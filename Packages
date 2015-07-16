@@ -62,6 +62,22 @@ Description: Disables burst mode on iOS 8
 Author: Skyler Kansala
 Name: BurstFree
 
+Package: com.skylerk99.nodelete
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.nodelete_1.0_iphoneos-arm.deb
+Size: 3430
+MD5sum: fef21aaa1c4d16a5e0867ded0a3185e1
+SHA1: 91b386ebe2f194c74e9f72fbe64305b3fe03e953
+SHA256: ffe6f7293cdd87aaf9718c21b6c51062579b377d0f86459a9fcf910c2e67b2d7
+Section: Tweaks
+Description: Swipe to delete no longer will delete message conversations in the stock message app.
+Author: Skyler Kansala
+Name: NoMsgDelete
+
 Package: com.skylerk99.nonowarror
 Version: 1.0
 Architecture: iphoneos-arm
