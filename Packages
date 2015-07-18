@@ -31,16 +31,16 @@ Author: Skyler Kansala
 Name: NCFloater
 
 Package: com.skylerk99.musicMod
-Version: 1.7.2
+Version: 1.7.4
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 4056
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.musicMod_1.7.2_iphoneos-arm.deb
-Size: 3880040
-MD5sum: c8a3e51959a301b130661f494329be82
-SHA1: bac3894f00a772b7268e92a2af2b3e7516e7732a
-SHA256: d51dd2e99487627534706c1a74e85c51c97a9d6389d6b08647a8516f4f358278
+Filename: debs//com.skylerk99.musicMod_1.7.4_iphoneos-arm.deb
+Size: 3880216
+MD5sum: d14dadb25bea435f8bb72dc3f74e93db
+SHA1: 4a00b5b906808f220bcb399225ef741b6f002807
+SHA256: 21ad405f308407e93c010e045112c42a34bff228796de1e37eb2efb395f7bc7a
 Section: Tweaks
 Description: Misc tweaks for 8.4 Apple Music. update 7
 Author: Skyler Kansala
