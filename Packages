@@ -14,6 +14,22 @@ Description: Very crude portrait mode on Clash of Clans. Simply shrinks the land
 Author: Skyler Kansala
 Name: CoC Flipper
 
+Package: com.skylerk99.floater
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.floater_0.1_iphoneos-arm.deb
+Size: 10598
+MD5sum: 73e519aef01bedab82d1a90f5a1cdfd1
+SHA1: 25a6ba97b22c3440586529b3bc9b949cf89ef189
+SHA256: 7371e9a5b84b44f9e7f8d24cc796559ca1bfc9c1836cd71d3146f9edfbb02615
+Section: Tweaks
+Description: Create a floating NC with a custom scale and corner radius. (Works with Couria)
+Author: Skyler Kansala
+Name: NCFloater
+
 Package: com.skylerk99.musicMod
 Version: 1.7.2
 Architecture: iphoneos-arm
