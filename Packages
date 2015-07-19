@@ -31,16 +31,16 @@ Author: Skyler Kansala
 Name: NCFloater
 
 Package: com.skylerk99.musicMod
-Version: 1.7.4
+Version: 1.7.5
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
-Installed-Size: 4056
+Installed-Size: 4048
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.musicMod_1.7.4_iphoneos-arm.deb
-Size: 3880216
-MD5sum: d14dadb25bea435f8bb72dc3f74e93db
-SHA1: 4a00b5b906808f220bcb399225ef741b6f002807
-SHA256: 21ad405f308407e93c010e045112c42a34bff228796de1e37eb2efb395f7bc7a
+Filename: debs//com.skylerk99.musicMod_1.7.5_iphoneos-arm.deb
+Size: 3874898
+MD5sum: 535a2a36e529490c63392ebffb710205
+SHA1: 2620c2dbea03233474b6cfedb86f0724b613308f
+SHA256: 058f78da906e14e38f612674022fde6664dea275342e189d5ee4b3ab87f7b77b
 Section: Tweaks
 Description: Misc tweaks for 8.4 Apple Music. update 7
 Author: Skyler Kansala
@@ -125,4 +125,20 @@ Section: Tweaks
 Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%.
 Author: Skyler Kansala
 Name: PowerColor
+
+Package: com.skylerk99.rembat
+Version: 1.0.0-26
+Architecture: iphoneos-arm
+Maintainer: Skylerk99
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.rembat_1.0.0-26_iphoneos-arm.deb
+Size: 32702
+MD5sum: 4b07fdbbfc1e74f460840653031c9179
+SHA1: 993cd327bff37cd8e0a56d07e27abb3cc3cc3cfb
+SHA256: 080edf09c18cb68143409b4c95c1f6d31f5abca6e0ceb8d6b7a7aee20daba1a8
+Section: Tweaks
+Description: Option to hide battery elements.
+Author: Skylerk99
+Name: RemoveBattery
 
