@@ -15,16 +15,16 @@ Author: Skyler Kansala
 Name: CoC Flipper
 
 Package: com.skylerk99.floater
-Version: 0.1.1.1
+Version: 0.1.2r
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 216
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.floater_0.1.1.1_iphoneos-arm.deb
-Size: 29868
-MD5sum: 99678a0612c13cab9e246398e84e3244
-SHA1: 45237898104759260d3e071018fbeb8e36c95341
-SHA256: 6c1a13c53290ac58aa819054add99ed6b4c9ef52a6ca19133ac9ef95c7a31b01
+Filename: debs//com.skylerk99.floater_0.1.2r_iphoneos-arm.deb
+Size: 30114
+MD5sum: e3ff22c88efc2e3b37ec0807d2e84c7e
+SHA1: ea4636a7b46fd04b2ac04942b505feb535495d3b
+SHA256: fc42c081e5dcfd115ff6d9cef0419e71840c43c7179fd6c355db05c80f835eae
 Section: Tweaks
 Description: Create a floating NC with a custom scale and corner radius. (Works with Couria)
 Author: Skyler Kansala
@@ -45,6 +45,22 @@ Section: Tweaks
 Description: Misc tweaks for 8.4 Apple Music. update 7
 Author: Skyler Kansala
 Name: MusicMod-8.4
+
+Package: com.skylerk99.ncfloater
+Version: 0.1.3r
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.ncfloater_0.1.3r_iphoneos-arm.deb
+Size: 30118
+MD5sum: ff444896ddbda2fc4d3675b065ac8c63
+SHA1: 326e386e5b085423aa3626333e3d7f6ccf2da0d7
+SHA256: bfc0c30dca6b98737eba70307b02ef317e9a07f00d8e8b84ca9e9230bacb7bb1
+Section: Tweaks
+Description: Create a floating NC with a custom scale and corner radius. (Works with Couria)
+Author: Skyler Kansala
+Name: NCFloater
 
 Package: com.skylerk99.noMSB
 Version: 1.0
