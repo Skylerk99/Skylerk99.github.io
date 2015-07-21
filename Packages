@@ -31,16 +31,16 @@ Author: Skyler Kansala
 Name: MusicMod-8.4
 
 Package: com.skylerk99.ncfloater
-Version: 0.1.3r
+Version: 0.1.4r
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 216
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.ncfloater_0.1.3r_iphoneos-arm.deb
-Size: 30118
-MD5sum: ff444896ddbda2fc4d3675b065ac8c63
-SHA1: 326e386e5b085423aa3626333e3d7f6ccf2da0d7
-SHA256: bfc0c30dca6b98737eba70307b02ef317e9a07f00d8e8b84ca9e9230bacb7bb1
+Filename: debs//com.skylerk99.ncfloater_0.1.4r_iphoneos-arm.deb
+Size: 30134
+MD5sum: a392a252d71dd6e585ba5d7fe99e284e
+SHA1: f0b38a744ed4b8082e77625baa1f8f8a2456fc3a
+SHA256: e4d9fd76465594d7f8ec27a09753f23ab3fcdc98a1f26c175711d97079848865
 Section: Tweaks
 Description: Create a floating NC with a custom scale and corner radius. (Works with Couria)
 Author: Skyler Kansala
