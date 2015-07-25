@@ -22,10 +22,10 @@ Installed-Size: 244
 Depends: mobilesubstrate
 Conflicts: com.skylerk99.ncfloater
 Filename: debs//com.skylerk99.floater_0.1.6r_iphoneos-arm.deb
-Size: 36636
-MD5sum: 0702b5f34b1c413d81c9bba8350142ae
-SHA1: 5bbb1d4662869a4da57d933c05857c1d993c3ad0
-SHA256: 2482b4af626486497ce75ef143918763f3cd657ac9294141b714bae4d1159b9e
+Size: 36726
+MD5sum: 03743e576ecb0f4b88df3cee0be72ffc
+SHA1: b5d10dff2cd1cce13335300f8fb829e7ece62468
+SHA256: 357625e154fe41bc6b578aea9c1b1e2e6c70ce7ed79225e617083a0bbf3cc3f2
 Section: Tweaks
 Description: Floaty round things...
 Author: Skyler Kansala
