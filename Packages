@@ -31,6 +31,22 @@ Description: Floaty round things...
 Author: Skyler Kansala
 Name: Floater
 
+Package: com.skylerk99.instacode
+Version: 0.1r
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.instacode_0.1r_iphoneos-arm.deb
+Size: 3980
+MD5sum: 2fd415f2c4a1228d1b70e41049d03619
+SHA1: a1359b6ae6886f75a8fe2b147d6d69bb76ec7075
+SHA256: f1d7b74701537521793076f0bae9d17d266476e2b4b692e585bec171548be33e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Skyler Kansala
+Name: InstaCode
+
 Package: com.skylerk99.kbfloater
 Version: 0.1.4r
 Architecture: iphoneos-arm
