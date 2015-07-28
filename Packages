@@ -38,14 +38,14 @@ Maintainer: Skyler Kansala
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: debs//com.skylerk99.instacode_0.1r_iphoneos-arm.deb
-Size: 3980
-MD5sum: 2fd415f2c4a1228d1b70e41049d03619
-SHA1: a1359b6ae6886f75a8fe2b147d6d69bb76ec7075
-SHA256: f1d7b74701537521793076f0bae9d17d266476e2b4b692e585bec171548be33e
+Size: 4052
+MD5sum: 8fb9059f11eba5a94b625a1b9f7f8f81
+SHA1: d52a9cb9e1f7ee1d52009a0acc07adf9316f64c0
+SHA256: 2e53f39d51149c9061b93be2307eb91df836ba40c64018801f444ee27285f674
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Merge lock screen and passcode screen.only tested to work on iPhone 6 with standard resolution (does not work with zoomed display or on ip5)
 Author: Skyler Kansala
-Name: InstaCode
+Name: InstaLock
 
 Package: com.skylerk99.kbfloater
 Version: 0.1.4r
