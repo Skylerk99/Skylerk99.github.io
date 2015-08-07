@@ -15,17 +15,17 @@ Author: Skyler Kansala
 Name: CoC Flipper
 
 Package: com.skylerk99.floater
-Version: 0.1.8r
+Version: 0.1.9r
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 256
 Depends: mobilesubstrate
 Conflicts: com.skylerk99.ncfloater
-Filename: debs//com.skylerk99.floater_0.1.8r_iphoneos-arm.deb
-Size: 43140
-MD5sum: 50c4691aeeb76daf20cb899cc2905a9c
-SHA1: 8448dad5ae89b3cb0b62832fe1f372f1d80b15f5
-SHA256: f4c2cfcacb7f374d91a693a1f57e2298e9924028616f82e22779d0965986a4c3
+Filename: debs//com.skylerk99.floater_0.1.9r_iphoneos-arm.deb
+Size: 44192
+MD5sum: b06a6d9aa3cb185c55a029f79fb90ba3
+SHA1: 0687a201110e1a63c63dab3a9c89ea8611426229
+SHA256: ecbed669ad9a1c7ff21ef06bf31bc7c546dffe986d96a5ce6dca40d9bf97f18d
 Section: Tweaks
 Description: Floaty round things...
 Author: Skyler Kansala
