@@ -159,6 +159,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Skyler Kansala
 Name: NoMusicArrow
 
+Package: com.skylerk99.notate
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.notate_1.1-8_iphoneos-arm.deb
+Size: 9570
+MD5sum: 499b3ed4cbf66c4378f89448349a2589
+SHA1: 4a1334b73d9883e8c6fb65c17ebc2e66eb306d5a
+SHA256: 33dd3cd6887dab4b0f686ebce9599813ebc4fffb4e8933a38f8046e542e0f1aa
+Section: Tweaks
+Description: Disables springboard rotation on 6+ resolutions.
+Author: Skyler Kansala
+Name: Notate
+
 Package: com.skylerk99.powercolor
 Version: 1.0b
 Architecture: iphoneos-arm
