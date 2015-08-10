@@ -207,3 +207,19 @@ Description: Option to hide battery elements.
 Author: Skylerk99
 Name: RemoveBattery
 
+Package: com.skylerk99.statusdown
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.statusdown_0.1_iphoneos-arm.deb
+Size: 4010
+MD5sum: d19d2ad3ba5faba7c9edf0aa51e77b0b
+SHA1: 1c3111d3fd681397515236dd1e4a525d22a3fce4
+SHA256: e46cb6e41db90dda85793ed2c0c2aca7e80a6d6553d6f9f5a2659e8628ca247a
+Section: Tweaks
+Description: Move lock screen and springboard status bar to bottom of screen.
+Author: Skyler Kansala
+Name: StatusDown
+
