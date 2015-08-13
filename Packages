@@ -14,6 +14,22 @@ Description: Very crude portrait mode on Clash of Clans. Simply shrinks the land
 Author: Skyler Kansala
 Name: CoC Flipper
 
+Package: com.skylerk99.flipswipe
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.flipswipe_0.1_iphoneos-arm.deb
+Size: 4414
+MD5sum: 90c79203c8a8c0334f70d28850cffb0a
+SHA1: a38e037e464cd5f42c3272e12447de76694f8de3
+SHA256: 0c6ac97db24c554bb1b1e2602db5e2060f7a9b50032aabce984ea6a6701bebc5
+Section: Tweaks
+Description: swipe up or down on the camera preview to flip cameras.
+Author: Skyler Kansala
+Name: FlipSwipe
+
 Package: com.skylerk99.floater
 Version: 0.2.6r
 Architecture: iphoneos-arm
