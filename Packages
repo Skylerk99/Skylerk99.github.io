@@ -1,3 +1,19 @@
+Package: com.skylerk99.ccmeterbackground
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 152
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs//com.skylerk99.ccmeterbackground_0.1_iphoneos-arm.deb
+Size: 9800
+MD5sum: fd722f1e00d4e544621d02335fd230d6
+SHA1: 0bc3a73e61e6c3cef00095ff363c263ce4ca3351
+SHA256: 14bc52717bacb6e20868a2cded3cd669498920a271d2117ee15ad2beca460529
+Section: Tweaks
+Description: CCMeter Background.. Hopefully.
+Author: Skyler Kansala
+Name: CCMeterBackground
+
 Package: com.skylerk99.cocflip
 Version: 0.0.1-11
 Architecture: iphoneos-arm
