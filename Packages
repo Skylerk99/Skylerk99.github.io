@@ -31,16 +31,16 @@ Author: Skyler Kansala
 Name: CoC Flipper
 
 Package: com.skylerk99.flipswipe
-Version: 0.2r
+Version: 0.3r
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 236
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.flipswipe_0.2r_iphoneos-arm.deb
-Size: 26374
-MD5sum: 2e964c9c47714846d9669f2479e0d5a0
-SHA1: 1cfe674e855d9f2b03ecdc9afc27ab6da56ebe86
-SHA256: 7209581c15451d51e400973de9036bcd508595a1970622c308e5c43f02024f08
+Filename: debs//com.skylerk99.flipswipe_0.3r_iphoneos-arm.deb
+Size: 26396
+MD5sum: 852328ac34f98b84c7f10e63a3dfda3c
+SHA1: fa2f298f030564275669e2283e77e57ec892df9f
+SHA256: 21b6b65f2dce87d88f9904e324a769b66fb6a5c9313f1f24c5a4944429be96c4
 Section: Tweaks
 Description: swipe up or down on the camera preview to flip cameras.
 Author: Skyler Kansala
