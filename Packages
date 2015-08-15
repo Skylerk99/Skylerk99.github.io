@@ -175,6 +175,22 @@ Description: Swipe to delete no longer will delete message conversations in the 
 Author: Skyler Kansala
 Name: NoMsgDelete
 
+Package: com.skylerk99.nolockindicator
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.nolockindicator_0.0.1-2_iphoneos-arm.deb
+Size: 3202
+MD5sum: 9c625e39505a7d9cdfc3883f4a85e783
+SHA1: 7a5bc05e3252e2ba88f4c7341f3f46cbfa8daed4
+SHA256: b94fddda646e409f89cf0eb8c4f1522056493bc7dd67a4556e02c0e770bf1b4d
+Section: Tweaks
+Description: Remove Statusbar screen lock indicator.
+Author: Skyler Kansala
+Name: NoLockIndicator
+
 Package: com.skylerk99.nonowarror
 Version: 1.0
 Architecture: iphoneos-arm
