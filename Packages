@@ -63,17 +63,17 @@ Author: Skyler Kansala
 Name: FlipSwipe
 
 Package: com.skylerk99.floater
-Version: 0.2.8r
+Version: 0.2.9r
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 300
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Conflicts: com.skylerk99.ncfloater, com.skylerk99.kbfloater
-Filename: debs//com.skylerk99.floater_0.2.8r_iphoneos-arm.deb
-Size: 57334
-MD5sum: 3fa29d782d3330d699fe4a393e71b9ec
-SHA1: 2e9618b76469909f6d5e13a66db841c11bb784ed
-SHA256: 4ff1108e455bb86cb60c5e245c39071def9eda5e0a03f7acd4a5b9809b46a14c
+Filename: debs//com.skylerk99.floater_0.2.9r_iphoneos-arm.deb
+Size: 57004
+MD5sum: ada5afcc8f881eb3b761657fc27f3b04
+SHA1: 032847ea9b8adf5d8b3d2e045319af68c870c5e7
+SHA256: f8b8e2c443b004cea60b8f2f6462c946a8a83e318a46d29de189b0b88e4be01c
 Section: Tweaks
 Description: Floaty round things...
 Author: Skyler Kansala
