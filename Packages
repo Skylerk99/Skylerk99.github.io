@@ -15,16 +15,16 @@ Author: Skyler Kansala
 Name: CCMeterBackground
 
 Package: com.skylerk99.chargepulse
-Version: 0.0.1-8
+Version: 0.0.1-18
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.chargepulse_0.0.1-8_iphoneos-arm.deb
-Size: 4436
-MD5sum: 82c978c35e144808f7b5d772e773c5e2
-SHA1: c30fdfa889a60e14701c11febd681e6ccf047a3e
-SHA256: fa22b92918aad429a2b23357344fda73eea0b5d72a87d07a5907c13c9961ae8e
+Filename: debs//com.skylerk99.chargepulse_0.0.1-18_iphoneos-arm.deb
+Size: 4610
+MD5sum: e6c25718c3e4a65069c7bbe31d1ba27b
+SHA1: a371b7a44eda2d8a4339b817bc41aba229b3039c
+SHA256: 03acb94ade320ad3e9c2f0265141408dd4584a41d7329ce019f349ba4c174fab
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Skyler Kansala
