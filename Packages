@@ -15,16 +15,16 @@ Author: Skyler Kansala
 Name: CCMeterBackground
 
 Package: com.skylerk99.chargepulse
-Version: 0.1r
+Version: 0.2r
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
-Installed-Size: 72
+Installed-Size: 212
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.chargepulse_0.1r_iphoneos-arm.deb
-Size: 5042
-MD5sum: 7b9701066d4c69d568919abc58f42361
-SHA1: 418b4fca401c43a1fe9146088d5810d6f4ba9db3
-SHA256: 85f2671d7745cf25dc38bb05aa2dc5c1eb59c9e84dc6d3d98201b34db7080616
+Filename: debs//com.skylerk99.chargepulse_0.2r_iphoneos-arm.deb
+Size: 17888
+MD5sum: 6c62a46a4c9ebf6a9739fcf032f20c71
+SHA1: da0c56bc454f096c0cbf1d1e2910cd7efe14bfe6
+SHA256: 3217e3441563010d36e29ec32aad39252ec05ec50b281ad1830436910a6a312e
 Section: Tweaks
 Description: Status bar battery pulsates while charging.
 Author: Skyler Kansala
