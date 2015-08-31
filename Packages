@@ -240,16 +240,16 @@ Author: Skyler Kansala
 Name: Notate
 
 Package: com.skylerk99.powercolor
-Version: 1.3r
+Version: 1.4r
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 280
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: debs//com.skylerk99.powercolor_1.3r_iphoneos-arm.deb
-Size: 35134
-MD5sum: 9855437501bed624eca07f63e3942d06
-SHA1: 8d328a769b91c85a8c9df3433922dea3cf8274f8
-SHA256: dced159fe354c48076f91d68e8135fde28650a55fb8844409dd43e1dd02f5a8f
+Filename: debs//com.skylerk99.powercolor_1.4r_iphoneos-arm.deb
+Size: 35230
+MD5sum: efb8c9256e18d28db23044acee915b61
+SHA1: bdd5b0230e3f713a2085568387474052b22e0f50
+SHA256: 0ba128b35233d9ce3631c74c014f01dd115ce43c47f1d974bee9fe7dba405bbb
 Section: Tweaks
 Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%.
 Author: Skyler Kansala
