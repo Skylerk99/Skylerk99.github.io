@@ -246,10 +246,10 @@ Maintainer: Skyler Kansala
 Installed-Size: 280
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: debs//com.skylerk99.powercolor_1.5r_iphoneos-arm.deb
-Size: 35364
-MD5sum: e06234b154372314bdb7c15678f918ca
-SHA1: ecb8525c1b0b9af36c620a2c7e031d203b9f17e2
-SHA256: 455564f7af806ecf26417955c870875fb3aac9cb28dde32d6d76e1ac1513567a
+Size: 35036
+MD5sum: ff288a3f8c5599b1f6f72e82606e8dec
+SHA1: 02f9ae00fe27c4a3c963b6eab172e60e4e7ad4b5
+SHA256: 8cd6006e616edef33d4a7f6c870841bfccc60ba4629d7be19eef898bb3a51f10
 Section: Tweaks
 Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%.
 Author: Skyler Kansala
