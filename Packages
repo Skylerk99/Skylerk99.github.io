@@ -240,18 +240,18 @@ Author: Skyler Kansala
 Name: Notate
 
 Package: com.skylerk99.pageunlimited
-Version: 0.0.1-2
+Version: 0.0.1-4
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.pageunlimited_0.0.1-2_iphoneos-arm.deb
-Size: 3028
-MD5sum: dfd59f33f4defe9cba7f0f05416d7e43
-SHA1: 3bcce249d403c6684c375414e92bfca1ef0977a9
-SHA256: 14737efba58017d32cd4620d3d80242b10128efd17390823da17baa3e68bad87
+Filename: debs//com.skylerk99.pageunlimited_0.0.1-4_iphoneos-arm.deb
+Size: 3174
+MD5sum: c5b90593e23f2295e444e9e15688d2d9
+SHA1: 536662b93a98c52267bff3f43f5941372b67d314
+SHA256: 6143cff3f6bbe8a653edfd7012cc61ee8a641c772193a932f428170635e086fa
 Section: Tweaks
-Description: NoSpringboard Page limit iOS 8
+Description: No Springboard Page limit supports iOS 8, and all iOS versions.
 Author: Skyler Kansala
 Name: PageUnlimited
 
