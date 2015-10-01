@@ -1,3 +1,20 @@
+Package: com.joemerlino.messagestint
+Version: 0.0.1-22
+Architecture: iphoneos-arm
+Maintainer: Joe Merlino
+Installed-Size: 200
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Conflicts: xyz.mstg.mezode
+Filename: debs//com.joemerlino.messagestint_0.0.1-22_iphoneos-arm.deb
+Size: 23852
+MD5sum: e3d665e96a172b3593cb9c8cd4949585
+SHA1: 41d3fe4835218a663c62c3114de2860f47223dfb
+SHA256: 494689d567fef88e925b842dbcf8ec073975b77775d770d57615722f8d5def88
+Section: Tweaks
+Description: Tint conversations navbar with latest message status.
+Author: Joe Merlino
+Name: MessagesTint
+
 Package: com.skylerk99.ccmeterbackground
 Version: 0.1
 Architecture: iphoneos-arm
