@@ -47,6 +47,22 @@ Description: Status bar battery pulsates while charging.
 Author: Skyler Kansala
 Name: ChargePulse
 
+Package: com.skylerk99.chatpics
+Version: 0.0.1-13
+Architecture: iphoneos-arm
+Maintainer: Skylerk99
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.chatpics_0.0.1-13_iphoneos-arm.deb
+Size: 3286
+MD5sum: af23f3bf14bf4c8a801ca05ca8499a27
+SHA1: 46c1101bb4ac92e407b82ced3b68d369eb9138b1
+SHA256: 565aa81542fde92bad9eb8f6b8e7f926f67ca45853da5ae9b2c741fe15c4b18f
+Section: Tweaks
+Description: Show conversation pics in Message.app (hopefully updated fro iOS 9)
+Author: Skylerk99
+Name: ConvoPics
+
 Package: com.skylerk99.cocflip
 Version: 0.0.1-11
 Architecture: iphoneos-arm
@@ -129,16 +145,16 @@ Author: Skyler Kansala
 Name: KBFloater
 
 Package: com.skylerk99.musicMod
-Version: 1.7.5
+Version: 1.7.5-2
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
-Installed-Size: 4048
+Installed-Size: 4096
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.musicMod_1.7.5_iphoneos-arm.deb
-Size: 3874898
-MD5sum: 535a2a36e529490c63392ebffb710205
-SHA1: 2620c2dbea03233474b6cfedb86f0724b613308f
-SHA256: 058f78da906e14e38f612674022fde6664dea275342e189d5ee4b3ab87f7b77b
+Filename: debs//com.skylerk99.musicMod_1.7.5-2_iphoneos-arm.deb
+Size: 3878954
+MD5sum: 14d9a7dc34facf3b52cee67188daa792
+SHA1: c768ab32f43456335b6251ff63fe459814aa1677
+SHA256: 1ccfb6d8a7acfbb52d6bb0d5640d1290614c03d87578dc25883f31fb6433866d
 Section: Tweaks
 Description: Misc tweaks for 8.4 Apple Music. update 7
 Author: Skyler Kansala
