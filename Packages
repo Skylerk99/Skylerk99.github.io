@@ -224,6 +224,22 @@ Description: Disables burst mode on iOS 8
 Author: Skyler Kansala
 Name: BurstFree
 
+Package: com.skylerk99.nochatpic
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Skylerk99
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.nochatpic_0.0.1-1_iphoneos-arm.deb
+Size: 3342
+MD5sum: 8a724f7a284b6f4b4fdcc8dce82011ba
+SHA1: bb146c6e77fc6057a003bd6844d58e576d1b7910
+SHA256: 0815a0e5be33655ef27e4998675259aec5ac6f20f8a97a10724a607941c5b804
+Section: Tweaks
+Description: Hide Conversation pictures in Messages.app
+Author: Skylerk99
+Name: ConvoPicBeGone
+
 Package: com.skylerk99.nodelete
 Version: 1.0
 Architecture: iphoneos-arm
