@@ -112,6 +112,22 @@ Description: Floaty round things...
 Author: Skyler Kansala
 Name: Floater
 
+Package: com.skylerk99.greenbat
+Version: 2.0r
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.greenbat_2.0r_iphoneos-arm.deb
+Size: 25692
+MD5sum: df4f2659b6a943799652a85a03e0a3d6
+SHA1: 3af454f93a687821f9998d1a0c548603d78b9ab7
+SHA256: 19880cf44c5f40194bd57cf9e3a0c1c4ef1ec8ad02df9b041012a34c5d773cea
+Section: Tweaks
+Description: Change status bar battery color. works on iOS 7/8.
+Author: Skyler Kansala
+Name: AlwaysGreen
+
 Package: com.skylerk99.instacode
 Version: 0.1r
 Architecture: iphoneos-arm
