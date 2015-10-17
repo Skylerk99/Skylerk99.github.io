@@ -113,16 +113,16 @@ Author: Skyler Kansala
 Name: Floater
 
 Package: com.skylerk99.greenbat
-Version: 2.0r
+Version: 2.1r
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
-Installed-Size: 232
-Depends: mobilesubstrate
-Filename: debs//com.skylerk99.greenbat_2.0r_iphoneos-arm.deb
-Size: 25692
-MD5sum: df4f2659b6a943799652a85a03e0a3d6
-SHA1: 3af454f93a687821f9998d1a0c548603d78b9ab7
-SHA256: 19880cf44c5f40194bd57cf9e3a0c1c4ef1ec8ad02df9b041012a34c5d773cea
+Installed-Size: 264
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs//com.skylerk99.greenbat_2.1r_iphoneos-arm.deb
+Size: 26508
+MD5sum: f75969a3860c1f43b4c1616ab91f0520
+SHA1: 713c22dfe6f7b8becc8ec7ec962a616442f54887
+SHA256: 525259bdb2d0ea63ad347ffd79f783da7513e2a8b604af9c5e80c1a1057efc05
 Section: Tweaks
 Description: Change status bar battery color. works on iOS 7/8.
 Author: Skyler Kansala
