@@ -368,3 +368,19 @@ Description: Move lock screen and springboard status bar to bottom of screen.
 Author: Skyler Kansala
 Name: StatusDown
 
+Package: com.skylerk99.stopclock
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.stopclock_0.1.0_iphoneos-arm.deb
+Size: 3096
+MD5sum: 85ffba94c66c1f8d30505a5655aade1e
+SHA1: 34e1bcd3781a33bb9d9b9cd10de75758525384a4
+SHA256: d329df971782dd02890b57079c6a4417c8247bc53bf3b4484f4553368c0e3820
+Section: Tweaks
+Description: Stops clock animation on Springboard.
+Author: Skyler Kansala
+Name: StopClock
+
