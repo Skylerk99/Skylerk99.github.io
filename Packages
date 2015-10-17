@@ -321,18 +321,18 @@ Author: Skyler Kansala
 Name: PageUnlimited
 
 Package: com.skylerk99.powercolor
-Version: 1.5r
+Version: 1.6r
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
-Installed-Size: 280
+Installed-Size: 312
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: debs//com.skylerk99.powercolor_1.5r_iphoneos-arm.deb
-Size: 35036
-MD5sum: ff288a3f8c5599b1f6f72e82606e8dec
-SHA1: 02f9ae00fe27c4a3c963b6eab172e60e4e7ad4b5
-SHA256: 8cd6006e616edef33d4a7f6c870841bfccc60ba4629d7be19eef898bb3a51f10
+Filename: debs//com.skylerk99.powercolor_1.6r_iphoneos-arm.deb
+Size: 37372
+MD5sum: 38cfca90556d3892347ac831ad81524a
+SHA1: 2a99ff8446062b385964fa42b8f0b26ebf097095
+SHA256: d65d4770ea0846847fac47af8717886bed3feb809315c3523b96ad8fec56bb4c
 Section: Tweaks
-Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%.
+Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%. iOS 7-9
 Author: Skyler Kansala
 Name: PowerColor
 
