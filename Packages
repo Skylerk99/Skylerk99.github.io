@@ -337,20 +337,20 @@ Author: Skyler Kansala
 Name: PowerColor
 
 Package: com.skylerk99.rehctiws
-Version: 0.2-1
+Version: 0.2-2
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.rehctiws_0.2-1_iphoneos-arm.deb
-Size: 4094
-MD5sum: 3facc2b518f452b47aa2316662de722f
-SHA1: 5e3765a913cf0d7f3eaeebd5a0ff558416b7aa52
-SHA256: 5405114e58adb9e3bcae23fe38e411405c1db37d0e91693f31704f6b56089415
+Filename: debs//com.skylerk99.rehctiws_0.2-2_iphoneos-arm.deb
+Size: 4124
+MD5sum: 76f385b2590c93a5f7c257d495b383cf
+SHA1: f94eae56d033920c680aa72368258b148174cab5
+SHA256: 29348c6f4e02ea5a54c2487cce265be7639518d777f0089ebd3bb593801b1e2e
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Flip ios9 app switcher. Not perfect. Switcher page labels are inverted.
 Author: Skyler Kansala
-Name: rehctiwS
+Name: SwitcherFlipper
 
 Package: com.skylerk99.rembat
 Version: 1.0.0-26
