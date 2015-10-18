@@ -336,6 +336,22 @@ Description: Battery transitions from green to yellow to red as battery goes fro
 Author: Skyler Kansala
 Name: PowerColor
 
+Package: com.skylerk99.rehctiws
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.rehctiws_0.1_iphoneos-arm.deb
+Size: 3966
+MD5sum: 313407acd0ae9cdfcc61300878c28133
+SHA1: 05fbc99ba4b0bc795f72727dec154fcbdb9a5c11
+SHA256: f08ca34b7b74550825584f16f6bf2d564cc0c390b15035cfba5901d3559408aa
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Skyler Kansala
+Name: rehctiwS
+
 Package: com.skylerk99.rembat
 Version: 1.0.0-26
 Architecture: iphoneos-arm
