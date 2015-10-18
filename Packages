@@ -400,3 +400,19 @@ Description: Stops clock animation on Springboard.
 Author: Skyler Kansala
 Name: StopClock
 
+Package: com.skylerk99.switchertweak
+Version: 0.2-3
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.switchertweak_0.2-3_iphoneos-arm.deb
+Size: 13138
+MD5sum: e265c231e407e6be44ac502f9b59f975
+SHA1: 2fcc2ca98aaee420d7dd66e32a1e92345fe34bc2
+SHA256: 178187b63b2dcd0b98977a6a0a3e31a6df906988de3fdd2eb479760b50a1b611
+Section: Tweaks
+Description: Tweak the app switcher in iOS 9
+Author: Skyler Kansala
+Name: SwitcherTweak
+
