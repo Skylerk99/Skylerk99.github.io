@@ -337,16 +337,16 @@ Author: Skyler Kansala
 Name: PowerColor
 
 Package: com.skylerk99.rehctiws
-Version: 0.1
+Version: 0.2-1
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.rehctiws_0.1_iphoneos-arm.deb
-Size: 3966
-MD5sum: 313407acd0ae9cdfcc61300878c28133
-SHA1: 05fbc99ba4b0bc795f72727dec154fcbdb9a5c11
-SHA256: f08ca34b7b74550825584f16f6bf2d564cc0c390b15035cfba5901d3559408aa
+Filename: debs//com.skylerk99.rehctiws_0.2-1_iphoneos-arm.deb
+Size: 4094
+MD5sum: 3facc2b518f452b47aa2316662de722f
+SHA1: 5e3765a913cf0d7f3eaeebd5a0ff558416b7aa52
+SHA256: 5405114e58adb9e3bcae23fe38e411405c1db37d0e91693f31704f6b56089415
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Skyler Kansala
