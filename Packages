@@ -401,16 +401,16 @@ Author: Skyler Kansala
 Name: StopClock
 
 Package: com.skylerk99.switchertweak
-Version: 0.2-7
+Version: 0.2-8
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 220
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.switchertweak_0.2-7_iphoneos-arm.deb
-Size: 16396
-MD5sum: 937af37c2cfd1dd256500761eebbc652
-SHA1: 06ede10eb68ef35412a4fd20a542da4f2ed6e53b
-SHA256: 4ab06581150b69f439ec8e42a37c9b106d565023065bccab9516adb9ca4c5072
+Filename: debs//com.skylerk99.switchertweak_0.2-8_iphoneos-arm.deb
+Size: 16548
+MD5sum: 011f3e75432a606dfd366749e0438fdb
+SHA1: 426d3f110198a43aa32f18aae7050df2e30e2e8f
+SHA256: b999992f27f6a1a3a48d8aa20adecd87e0bccaeefb27c366886706b212957915
 Section: Tweaks
 Description: Tweak the app switcher in iOS 9. Direction, SB page swipe Respringing, Blurring options, default switcher page.
 Author: Skyler Kansala
