@@ -112,6 +112,22 @@ Description: Floaty round things...
 Author: Skyler Kansala
 Name: Floater
 
+Package: com.skylerk99.forcecolor
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.forcecolor_0.1_iphoneos-arm.deb
+Size: 5456
+MD5sum: 40ed0a81696ddf43788c79c16b2b85a6
+SHA1: db1ae2b28e4e30557eaab531bf513c12e96eb2b4
+SHA256: 0ba4156719bb9be17e5a6987b1563199989f9ecbff65ae1912126305b3a8bce3
+Section: Tweaks
+Description: Force Touch spring board short cuts will blur based on icon color
+Author: Skyler Kansala
+Name: ForceColor
+
 Package: com.skylerk99.greenbat
 Version: 2.1r
 Architecture: iphoneos-arm
