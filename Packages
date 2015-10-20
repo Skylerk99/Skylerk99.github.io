@@ -113,16 +113,16 @@ Author: Skyler Kansala
 Name: Floater
 
 Package: com.skylerk99.forcecolor
-Version: 0.2
+Version: 0.3
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.forcecolor_0.2_iphoneos-arm.deb
-Size: 4648
-MD5sum: eb8fb83659e3b6a1d5865dcc9e1c637a
-SHA1: 159aa67aa533cc68cc22b6eac8e3eca90dc02095
-SHA256: 8da9ce73579946f842c223ce111dc0ca17ee84175703942a52b0a77a6c4ed466
+Filename: debs//com.skylerk99.forcecolor_0.3_iphoneos-arm.deb
+Size: 7722
+MD5sum: fab53d9491e29e47ebe2c6319e4d64cd
+SHA1: 34f2f308053cf61715bdfba54721ff9837ca52f5
+SHA256: 823b2c0ad99e8454edcc1bd6ce92d3ffa4d17ce9169ec292fe176868855bc2c6
 Section: Tweaks
 Description: Force Touch springboard shortcuts will blur based on icon color
 Author: Skyler Kansala
