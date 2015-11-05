@@ -177,16 +177,16 @@ Author: Skyler Kansala
 Name: KBFloater
 
 Package: com.skylerk99.musicMod
-Version: 1.8r2
+Version: 1.9r
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
-Installed-Size: 4344
+Installed-Size: 4408
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.musicMod_1.8r2_iphoneos-arm.deb
-Size: 3897948
-MD5sum: 90f11512c320998e3664883d33cce22a
-SHA1: 28ebaf966abc189784cbde3b550b59a531f688e2
-SHA256: 506ec8d15cefa78208468d2edaafff0a74a27881cac1927621754376663c35f4
+Filename: debs//com.skylerk99.musicMod_1.9r_iphoneos-arm.deb
+Size: 3903640
+MD5sum: ba3d18ee3dc04e3709649807a2cf758e
+SHA1: 88352173da511feb85e266d2fce8364b6f299dce
+SHA256: 7894ab603ade0cbb62fd350ef236620be9db086159872a4ee375ee1e81ed8903
 Section: Tweaks
 Description: Misc tweaks for 8.4 Apple Music. update 7
 Author: Skyler Kansala
