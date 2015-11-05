@@ -432,3 +432,19 @@ Description: Tweak the app switcher in iOS 9. Direction, SB page swipe Respringi
 Author: Skyler Kansala
 Name: SwitcherTweak
 
+Package: com.skylerk99.unreplied
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.unreplied_0.0.1_iphoneos-arm.deb
+Size: 3874
+MD5sum: e70a36b9fe5c949f2f0cef3d134386a9
+SHA1: c78ed4b1454a81ae804a635bc04115b18f3e4b2d
+SHA256: 8a712314d9a6e161968cda4fd0a16d519634ab2e08f79a322787dc36d7700c45
+Section: Tweaks
+Description: Blue dot on the conversation list in the messages app only goes away if you reply to the message.
+Author: Skyler Kansala
+Name: UnrepliedDot
+
