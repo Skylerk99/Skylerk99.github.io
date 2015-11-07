@@ -15,6 +15,22 @@ Description: Tint conversations navbar with latest message status.
 Author: Joe Merlino
 Name: MessagesTint
 
+Package: com.phillipt.quickunlock
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Phillip Tennen
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: debs//com.phillipt.quickunlock_0.0.1-1+debug_iphoneos-arm.deb
+Size: 7692
+MD5sum: cbf0f8c6075aedca35fab28841ed743b
+SHA1: 1b884864d0cb598fcdba2ec352ddb43a08f94134
+SHA256: 4651aed9fbc7a6581546159472243750a0351458935f4cdbe332668f6f72a76c
+Section: Tweaks
+Description: Skip your lockscreen if you don't have notifications
+Author: Phillip Tennen
+Name: QuickUnock
+
 Package: com.skylerk99.ccmeterbackground
 Version: 0.1
 Architecture: iphoneos-arm
