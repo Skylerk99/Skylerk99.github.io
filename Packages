@@ -192,6 +192,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Skyler Kansala
 Name: KBFloater
 
+Package: com.skylerk99.locklog
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Skylerk99
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.locklog_0.0.1_iphoneos-arm.deb
+Size: 5832
+MD5sum: 0372a0b31b6e2ff4fc13eed7254d399e
+SHA1: d2bf5091a088fffe618623425f5bb600c8266187
+SHA256: 110c57a4228b697fee942acf8674f80d0816187edefa8fbbbad0138fde180563
+Section: Tweaks
+Description: Logs all passcode attempts
+Author: Skylerk99
+Name: LockLog
+
 Package: com.skylerk99.musicMod
 Version: 2.0r2
 Architecture: iphoneos-arm
