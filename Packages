@@ -420,13 +420,13 @@ Package: com.skylerk99.slidepercent
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Skylerk99
-Installed-Size: 132
+Installed-Size: 136
 Depends: mobilesubstrate
 Filename: debs//com.skylerk99.slidepercent_0.0.1_iphoneos-arm.deb
-Size: 3726
-MD5sum: 02957eafe625c81e4c0685f9ec3f8cae
-SHA1: 5bdb297bf6dac342ff53f1dff6765276b444e333
-SHA256: 310e3f3c4164d500f8162098b771434cacba230bec3acc4576f459eae7703612
+Size: 3804
+MD5sum: 35a5563c003cf76214609714b1941912
+SHA1: d3d08c8a1ce10e001a66a20fc99a018688dfcfc9
+SHA256: f9b3d73efaca08d7ccec2dbb08d52e5507e6a559478133dd8decf50379a20e49
 Section: Tweaks
 Description: Battery percent as slider text.
 Author: Skylerk99
