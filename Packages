@@ -416,6 +416,22 @@ Description: Option to hide battery elements.
 Author: Skylerk99
 Name: RemoveBattery
 
+Package: com.skylerk99.slidepercent
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Skylerk99
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.slidepercent_0.0.1_iphoneos-arm.deb
+Size: 3726
+MD5sum: 02957eafe625c81e4c0685f9ec3f8cae
+SHA1: 5bdb297bf6dac342ff53f1dff6765276b444e333
+SHA256: 310e3f3c4164d500f8162098b771434cacba230bec3acc4576f459eae7703612
+Section: Tweaks
+Description: Battery percent as slider text.
+Author: Skylerk99
+Name: SlidePercent
+
 Package: com.skylerk99.statusdown
 Version: 0.1
 Architecture: iphoneos-arm
