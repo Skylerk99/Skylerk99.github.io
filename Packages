@@ -368,6 +368,22 @@ Description: No Springboard Page limit supports iOS 8, and all iOS versions.
 Author: Skyler Kansala
 Name: PageUnlimited
 
+Package: com.skylerk99.powerbar
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 384
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs//com.skylerk99.powerbar_1.2_iphoneos-arm.deb
+Size: 32848
+MD5sum: 4ff8076128158e176483aa1b0926a7a7
+SHA1: f75be33005a917458e9667ed90378bd3472c7b2d
+SHA256: 3bf6153e1472ce0b483440c5226194e06391d42b35886ab3ca72845846bba5de
+Section: Tweaks
+Description: Adds a battery bar above status bar.
+Author: Skyler Kansala
+Name: PowerBar
+
 Package: com.skylerk99.powercolor
 Version: 1.6r
 Architecture: iphoneos-arm
