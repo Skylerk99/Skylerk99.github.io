@@ -439,10 +439,10 @@ Maintainer: Skyler Kansala
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: debs//com.skylerk99.safarifix_0.0.1_iphoneos-arm.deb
-Size: 3260
-MD5sum: a5c565fbfc2d40c96037d41e6bb6b571
-SHA1: 910beb81875dc01302c2edf289831e2fef2ec92f
-SHA256: 907bc951754707b6eede0ec4b9d48a0e032f4d5a69e11b4b6f5c6d1998252aab
+Size: 3284
+MD5sum: 02ac165b7757b9c314b8f81d073cb1aa
+SHA1: 64bd70fb1d226924560021372711cbbeffe05160
+SHA256: 7e461f35ee2999f667779714bfbc3212f860d9d5d0b2361df7084acbda7496a3
 Section: Tweaks
 Description: Fixes iOS 9 reload issue when opening the search bar quickly.
 Author: Skyler Kansala
