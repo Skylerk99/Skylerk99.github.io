@@ -433,16 +433,16 @@ Author: Skylerk99
 Name: RemoveBattery
 
 Package: com.skylerk99.safarifix
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.safarifix_0.0.1_iphoneos-arm.deb
-Size: 3284
-MD5sum: 02ac165b7757b9c314b8f81d073cb1aa
-SHA1: 64bd70fb1d226924560021372711cbbeffe05160
-SHA256: 7e461f35ee2999f667779714bfbc3212f860d9d5d0b2361df7084acbda7496a3
+Filename: debs//com.skylerk99.safarifix_0.0.2_iphoneos-arm.deb
+Size: 3286
+MD5sum: aba23654b2b7494341e20228a301838d
+SHA1: 95e6488faedc746bdbd5310852d3c681154e131a
+SHA256: 3e11df5c04db29ea21b256c50aa3d6a60bd53b3fe90efbc7dbedb37fac72e969
 Section: Tweaks
 Description: Fixes iOS 9 reload issue when opening the search bar quickly.
 Author: Skyler Kansala
