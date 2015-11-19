@@ -432,6 +432,22 @@ Description: Option to hide battery elements.
 Author: Skylerk99
 Name: RemoveBattery
 
+Package: com.skylerk99.safarifix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.safarifix_0.0.1_iphoneos-arm.deb
+Size: 3260
+MD5sum: a5c565fbfc2d40c96037d41e6bb6b571
+SHA1: 910beb81875dc01302c2edf289831e2fef2ec92f
+SHA256: 907bc951754707b6eede0ec4b9d48a0e032f4d5a69e11b4b6f5c6d1998252aab
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Skyler Kansala
+Name: safarifix
+
 Package: com.skylerk99.slidepercent
 Version: 0.0.1
 Architecture: iphoneos-arm
