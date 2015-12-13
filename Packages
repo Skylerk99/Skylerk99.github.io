@@ -79,6 +79,22 @@ Description: Show conversation pics in Message.app (hopefully updated fro iOS 9)
 Author: Skylerk99
 Name: ConvoPics
 
+Package: com.skylerk99.cleantb
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.cleantb_0.0.1_iphoneos-arm.deb
+Size: 3452
+MD5sum: 26a577c0f3910c8410445c60362ba0b1
+SHA1: 3e53ed776b2b473de9ad6776c100ac7f270e5a7f
+SHA256: dd44f5f0a3d04cac954edac909e843320b027102029b0e66f47ee78f1c4aafa5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Skyler Kansala
+Name: CleanTB
+
 Package: com.skylerk99.cocflip
 Version: 0.0.1-11
 Architecture: iphoneos-arm
