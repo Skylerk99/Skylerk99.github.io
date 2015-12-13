@@ -80,18 +80,18 @@ Author: Skylerk99
 Name: ConvoPics
 
 Package: com.skylerk99.cleantb
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
-Installed-Size: 120
+Installed-Size: 248
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.cleantb_0.0.1_iphoneos-arm.deb
-Size: 3452
-MD5sum: 26a577c0f3910c8410445c60362ba0b1
-SHA1: 3e53ed776b2b473de9ad6776c100ac7f270e5a7f
-SHA256: dd44f5f0a3d04cac954edac909e843320b027102029b0e66f47ee78f1c4aafa5
+Filename: debs//com.skylerk99.cleantb_0.0.2_iphoneos-arm.deb
+Size: 7026
+MD5sum: 708b961ac7ab66d98d512405348983e4
+SHA1: b369dbe75d9b4d38d2d8b1df95c1f87acbeeaa3b
+SHA256: f8a854525d377e1430f067ec8cd5f48714126944ac1c36f638db33c54a2fea74
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Hides top and bottom bar in tweetbot 4. settings to disable and enable.
 Author: Skyler Kansala
 Name: CleanTB
 
