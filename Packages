@@ -320,6 +320,22 @@ Description: Swipe to delete no longer will delete message conversations in the 
 Author: Skyler Kansala
 Name: NoMsgDelete
 
+Package: com.skylerk99.noinfoyt
+Version: 0.0.1+debug
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.noinfoyt_0.0.1+debug_iphoneos-arm.deb
+Size: 4296
+MD5sum: 6e3c7a8a4dbd94289c0954f7ccffb6cc
+SHA1: 43880677da2cb603b1bf1bc62e316a236ce2dd18
+SHA256: 4bdf026c6aa7b75159dce7c0e4a547afbdd716a2b1567957b032ea4dfc3f4ce0
+Section: Tweaks
+Description: Disable info bar popup in youtube app.
+Author: Skyler Kansala
+Name: NoInfoYT
+
 Package: com.skylerk99.nolockindicator
 Version: 0.0.1-5
 Architecture: iphoneos-arm
