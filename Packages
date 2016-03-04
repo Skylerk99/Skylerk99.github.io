@@ -480,6 +480,22 @@ Description: Fixes iOS 9 reload issue when opening the search bar quickly.
 Author: Skyler Kansala
 Name: safarifix
 
+Package: com.skylerk99.selfcontrol
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.selfcontrol_0.0.1_iphoneos-arm.deb
+Size: 3632
+MD5sum: 6110b8200b125a36c335e4756924cf0a
+SHA1: af65508cf0f65f0831e884176f0e86425c87aab0
+SHA256: 9c977f08cbd493019bbf8b143d841e31576ed0cf48e6ee8387ca176a2fe49813
+Section: Tweaks
+Description: Disables FB Newsfeed. No Option, just no feed.
+Author: Skyler Kansala
+Name: SelfControl
+
 Package: com.skylerk99.slidepercent
 Version: 0.0.1
 Architecture: iphoneos-arm
