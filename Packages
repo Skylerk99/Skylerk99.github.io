@@ -209,16 +209,16 @@ Author: Skyler Kansala
 Name: KBFloater
 
 Package: com.skylerk99.locklog
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Skylerk99
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.locklog_0.0.2_iphoneos-arm.deb
-Size: 5820
-MD5sum: ae16804f97657ffaed4d4cffaa5c9861
-SHA1: a932d6aa17602a724a096cd7516f215142a1e3ea
-SHA256: 42376d57ea52f50bcc37c7e82b65c81a9b685108b556db2b896262cc966ba7a2
+Filename: debs//com.skylerk99.locklog_0.0.3_iphoneos-arm.deb
+Size: 5718
+MD5sum: e9fdea7a6a8fd4e7f6d044183c2a278d
+SHA1: faa5da5e93eda37a7f2b70badb8d96e6212c4b89
+SHA256: d68891a26918fe627119db3a9e75f346724afe460d4fa28e09db61cbba0d49a4
 Section: Tweaks
 Description: Logs all passcode attempts
 Author: Skylerk99
