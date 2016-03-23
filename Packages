@@ -368,6 +368,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Skyler Kansala
 Name: NoMusicArrow
 
+Package: com.skylerk99.nosplit
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Skyler Kansala
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs//com.skylerk99.nosplit_0.0.1_iphoneos-arm.deb
+Size: 3238
+MD5sum: 6c2dbd07f78897b2129d86ba7612183f
+SHA1: 9d2bcad09ee8b47e79bc5ce6a5bf6ebea79430b1
+SHA256: ec16a74d1d483b175e33f11e9933671ded7c93dc87faf2da2f9d0a924f6c7b59
+Section: Tweaks
+Description: No split screen landscape mode on messages app.
+Author: Skyler Kansala
+Name: NoSplitMessages
+
 Package: com.skylerk99.notate
 Version: 1.1-8
 Architecture: iphoneos-arm
