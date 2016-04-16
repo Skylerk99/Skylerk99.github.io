@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /Users/SJKansala/GitHub/Skylerk99.github.io/
+cd /Users/SJKansala/Documents/Skylerk99.github.io/
 
 dpkg-scanpackages debs / > Packages
 
