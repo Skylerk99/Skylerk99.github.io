@@ -5,7 +5,7 @@ Maintainer: Joe Merlino
 Installed-Size: 200
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Conflicts: xyz.mstg.mezode
-Filename: debs//com.joemerlino.messagestint_0.0.1-22_iphoneos-arm.deb
+Filename: debs/com.joemerlino.messagestint_0.0.1-22_iphoneos-arm.deb
 Size: 23852
 MD5sum: e3d665e96a172b3593cb9c8cd4949585
 SHA1: 41d3fe4835218a663c62c3114de2860f47223dfb
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Maintainer: Phillip Tennen
 Installed-Size: 140
 Depends: mobilesubstrate
-Filename: debs//com.phillipt.quickunlock_0.0.1-1+debug_iphoneos-arm.deb
+Filename: debs/com.phillipt.quickunlock_0.0.1-1+debug_iphoneos-arm.deb
 Size: 7692
 MD5sum: cbf0f8c6075aedca35fab28841ed743b
 SHA1: 1b884864d0cb598fcdba2ec352ddb43a08f94134
@@ -37,7 +37,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 152
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: debs//com.skylerk99.ccmeterbackground_0.1_iphoneos-arm.deb
+Filename: debs/com.skylerk99.ccmeterbackground_0.1_iphoneos-arm.deb
 Size: 9800
 MD5sum: fd722f1e00d4e544621d02335fd230d6
 SHA1: 0bc3a73e61e6c3cef00095ff363c263ce4ca3351
@@ -53,7 +53,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 212
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.chargepulse_0.2r_iphoneos-arm.deb
+Filename: debs/com.skylerk99.chargepulse_0.2r_iphoneos-arm.deb
 Size: 17888
 MD5sum: 6c62a46a4c9ebf6a9739fcf032f20c71
 SHA1: da0c56bc454f096c0cbf1d1e2910cd7efe14bfe6
@@ -69,7 +69,7 @@ Architecture: iphoneos-arm
 Maintainer: Skylerk99
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.chatpics_0.0.1-13_iphoneos-arm.deb
+Filename: debs/com.skylerk99.chatpics_0.0.1-13_iphoneos-arm.deb
 Size: 3286
 MD5sum: af23f3bf14bf4c8a801ca05ca8499a27
 SHA1: 46c1101bb4ac92e407b82ced3b68d369eb9138b1
@@ -85,7 +85,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 248
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.cleantb_0.0.2_iphoneos-arm.deb
+Filename: debs/com.skylerk99.cleantb_0.0.2_iphoneos-arm.deb
 Size: 7026
 MD5sum: 708b961ac7ab66d98d512405348983e4
 SHA1: b369dbe75d9b4d38d2d8b1df95c1f87acbeeaa3b
@@ -101,7 +101,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.cocflip_0.0.1-11_iphoneos-arm.deb
+Filename: debs/com.skylerk99.cocflip_0.0.1-11_iphoneos-arm.deb
 Size: 8798
 MD5sum: 51ad04d4aeba73c8b435004e5da7b08e
 SHA1: c58b03eaea3ef5d36f30f04229828542276e0268
@@ -112,16 +112,16 @@ Author: Skyler Kansala
 Name: CoC Flipper
 
 Package: com.skylerk99.fitpusher
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala <skylerk99@gmail.com>
-Installed-Size: 280
+Installed-Size: 492
 Depends: mobilesubstrate, applist
-Filename: debs//com.skylerk99.fitpusher_0.0.2_iphoneos-arm.deb
-Size: 13546
-MD5sum: 103584b208088d4f746fef3f7d0f6a00
-SHA1: 1fe97308775e23f57557418a6d53e4c5618fced5
-SHA256: 38e7816505e04992059763d9dd34523a6a541efc43c81445a302b8c2b713f9ae
+Filename: debs/com.skylerk99.fitpusher_0.0.3_iphoneos-arm.deb
+Size: 55030
+MD5sum: 192132a693c772dc36f0236c09652ab7
+SHA1: 087feed5e82ecaad9e856868dd9661491c5e8c11
+SHA256: b0bc277d533c5071676df37fac4c2a42c5447add7b829edda9d929f788fcfb5a
 Section: Tweaks
 Description: Push all notifications to fitbit trackers.
 Author: Skyler Kansala <skylerk99@gmail.com>
@@ -133,7 +133,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 400
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.flipswipe_0.5r_iphoneos-arm.deb
+Filename: debs/com.skylerk99.flipswipe_0.5r_iphoneos-arm.deb
 Size: 27660
 MD5sum: b4da0fa08b884932dfcc9cfc919cf73e
 SHA1: 1c66d65d42177169fc0a2ecdb6bbf1195df6c802
@@ -150,7 +150,7 @@ Maintainer: Skyler Kansala
 Installed-Size: 300
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Conflicts: com.skylerk99.ncfloater, com.skylerk99.kbfloater
-Filename: debs//com.skylerk99.floater_0.2.9r_iphoneos-arm.deb
+Filename: debs/com.skylerk99.floater_0.2.9r_iphoneos-arm.deb
 Size: 57004
 MD5sum: ada5afcc8f881eb3b761657fc27f3b04
 SHA1: 032847ea9b8adf5d8b3d2e045319af68c870c5e7
@@ -166,7 +166,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.forcecolor_0.3_iphoneos-arm.deb
+Filename: debs/com.skylerk99.forcecolor_0.3_iphoneos-arm.deb
 Size: 7722
 MD5sum: fab53d9491e29e47ebe2c6319e4d64cd
 SHA1: 34f2f308053cf61715bdfba54721ff9837ca52f5
@@ -182,7 +182,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 264
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: debs//com.skylerk99.greenbat_2.1r_iphoneos-arm.deb
+Filename: debs/com.skylerk99.greenbat_2.1r_iphoneos-arm.deb
 Size: 26508
 MD5sum: f75969a3860c1f43b4c1616ab91f0520
 SHA1: 713c22dfe6f7b8becc8ec7ec962a616442f54887
@@ -198,7 +198,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.instacode_0.1r_iphoneos-arm.deb
+Filename: debs/com.skylerk99.instacode_0.1r_iphoneos-arm.deb
 Size: 4052
 MD5sum: 8fb9059f11eba5a94b625a1b9f7f8f81
 SHA1: d52a9cb9e1f7ee1d52009a0acc07adf9316f64c0
@@ -214,7 +214,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 192
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.kbfloater_0.1.4r_iphoneos-arm.deb
+Filename: debs/com.skylerk99.kbfloater_0.1.4r_iphoneos-arm.deb
 Size: 17892
 MD5sum: e97dfec5471d34a30963df304c569d36
 SHA1: 9434d7f0dbe1a86368506077c11f1bbff45c0550
@@ -230,7 +230,7 @@ Architecture: iphoneos-arm
 Maintainer: Skylerk99
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.locklog_0.0.3_iphoneos-arm.deb
+Filename: debs/com.skylerk99.locklog_0.0.3_iphoneos-arm.deb
 Size: 5718
 MD5sum: e9fdea7a6a8fd4e7f6d044183c2a278d
 SHA1: faa5da5e93eda37a7f2b70badb8d96e6212c4b89
@@ -246,7 +246,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 4444
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.musicMod_2.0r2_iphoneos-arm.deb
+Filename: debs/com.skylerk99.musicMod_2.0r2_iphoneos-arm.deb
 Size: 3907930
 MD5sum: e733502502b00a05f69d340fc730e8f3
 SHA1: 9e7b27bff7acbf1668c601a461de0ab737bb06a0
@@ -262,7 +262,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 216
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.ncfloater_0.1.4r_iphoneos-arm.deb
+Filename: debs/com.skylerk99.ncfloater_0.1.4r_iphoneos-arm.deb
 Size: 30134
 MD5sum: a392a252d71dd6e585ba5d7fe99e284e
 SHA1: f0b38a744ed4b8082e77625baa1f8f8a2456fc3a
@@ -278,7 +278,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.noMSB_1.0_iphoneos-arm.deb
+Filename: debs/com.skylerk99.noMSB_1.0_iphoneos-arm.deb
 Size: 3216
 MD5sum: d4d9ff56abb8bb55f4113280c318ea29
 SHA1: 0a77c48aacb67402022d91843fa52c660b314683
@@ -294,7 +294,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.noburst_1-3_iphoneos-arm.deb
+Filename: debs/com.skylerk99.noburst_1-3_iphoneos-arm.deb
 Size: 2970
 MD5sum: a3b9b259b6083c0e2758229c84826a92
 SHA1: abb7a5273cc8f3f83e9f1d7d74f1f77b94f1df87
@@ -310,7 +310,7 @@ Architecture: iphoneos-arm
 Maintainer: Skylerk99
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.nochatpic_0.0.1-1_iphoneos-arm.deb
+Filename: debs/com.skylerk99.nochatpic_0.0.1-1_iphoneos-arm.deb
 Size: 3342
 MD5sum: 8a724f7a284b6f4b4fdcc8dce82011ba
 SHA1: bb146c6e77fc6057a003bd6844d58e576d1b7910
@@ -326,7 +326,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.nodelete_1.0_iphoneos-arm.deb
+Filename: debs/com.skylerk99.nodelete_1.0_iphoneos-arm.deb
 Size: 3430
 MD5sum: fef21aaa1c4d16a5e0867ded0a3185e1
 SHA1: 91b386ebe2f194c74e9f72fbe64305b3fe03e953
@@ -342,7 +342,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.noinfoyt_0.0.1+debug_iphoneos-arm.deb
+Filename: debs/com.skylerk99.noinfoyt_0.0.1+debug_iphoneos-arm.deb
 Size: 4296
 MD5sum: 6e3c7a8a4dbd94289c0954f7ccffb6cc
 SHA1: 43880677da2cb603b1bf1bc62e316a236ce2dd18
@@ -358,7 +358,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.nolockindicator_0.0.1-5_iphoneos-arm.deb
+Filename: debs/com.skylerk99.nolockindicator_0.0.1-5_iphoneos-arm.deb
 Size: 3068
 MD5sum: 1712303f2f94afc60bcfbb59969abbc0
 SHA1: ff0c9491c63cf162f366429f6416b65af3eabbde
@@ -374,7 +374,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.nonowarror_1.0_iphoneos-arm.deb
+Filename: debs/com.skylerk99.nonowarror_1.0_iphoneos-arm.deb
 Size: 3132
 MD5sum: 5275efb1504b8e378700da12ca5962c6
 SHA1: 07971bfec07fce939da939dbb7b09fca4dc01bfc
@@ -390,7 +390,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.nosplit_0.0.2_iphoneos-arm.deb
+Filename: debs/com.skylerk99.nosplit_0.0.2_iphoneos-arm.deb
 Size: 8176
 MD5sum: c6af26a90b44a63101429a81b697a8f1
 SHA1: 5c6dab92e227ecab25d9994acd4b91a97dc81774
@@ -406,7 +406,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.notate_1.1-8_iphoneos-arm.deb
+Filename: debs/com.skylerk99.notate_1.1-8_iphoneos-arm.deb
 Size: 9570
 MD5sum: 499b3ed4cbf66c4378f89448349a2589
 SHA1: 4a1334b73d9883e8c6fb65c17ebc2e66eb306d5a
@@ -422,7 +422,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.pageunlimited_0.0.1-4_iphoneos-arm.deb
+Filename: debs/com.skylerk99.pageunlimited_0.0.1-4_iphoneos-arm.deb
 Size: 3174
 MD5sum: c5b90593e23f2295e444e9e15688d2d9
 SHA1: 536662b93a98c52267bff3f43f5941372b67d314
@@ -438,7 +438,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 384
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: debs//com.skylerk99.powerbar_1.2_iphoneos-arm.deb
+Filename: debs/com.skylerk99.powerbar_1.2_iphoneos-arm.deb
 Size: 32848
 MD5sum: 4ff8076128158e176483aa1b0926a7a7
 SHA1: f75be33005a917458e9667ed90378bd3472c7b2d
@@ -454,7 +454,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 312
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: debs//com.skylerk99.powercolor_1.6r_iphoneos-arm.deb
+Filename: debs/com.skylerk99.powercolor_1.6r_iphoneos-arm.deb
 Size: 37372
 MD5sum: 38cfca90556d3892347ac831ad81524a
 SHA1: 2a99ff8446062b385964fa42b8f0b26ebf097095
@@ -470,7 +470,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.rehctiws_0.2-3_iphoneos-arm.deb
+Filename: debs/com.skylerk99.rehctiws_0.2-3_iphoneos-arm.deb
 Size: 4588
 MD5sum: e3adc42c3969f0d1e0d72638df93c510
 SHA1: fc6f518681632754a3cd55038f97f669781ef18f
@@ -486,7 +486,7 @@ Architecture: iphoneos-arm
 Maintainer: Skylerk99
 Installed-Size: 224
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.rembat_1.0.0-26_iphoneos-arm.deb
+Filename: debs/com.skylerk99.rembat_1.0.0-26_iphoneos-arm.deb
 Size: 32702
 MD5sum: 4b07fdbbfc1e74f460840653031c9179
 SHA1: 993cd327bff37cd8e0a56d07e27abb3cc3cc3cfb
@@ -502,7 +502,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.safarifix_0.0.2_iphoneos-arm.deb
+Filename: debs/com.skylerk99.safarifix_0.0.2_iphoneos-arm.deb
 Size: 3286
 MD5sum: aba23654b2b7494341e20228a301838d
 SHA1: 95e6488faedc746bdbd5310852d3c681154e131a
@@ -518,7 +518,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.selfcontrol_0.0.1_iphoneos-arm.deb
+Filename: debs/com.skylerk99.selfcontrol_0.0.1_iphoneos-arm.deb
 Size: 3632
 MD5sum: 6110b8200b125a36c335e4756924cf0a
 SHA1: af65508cf0f65f0831e884176f0e86425c87aab0
@@ -534,7 +534,7 @@ Architecture: iphoneos-arm
 Maintainer: Skylerk99
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.slidepercent_0.0.1_iphoneos-arm.deb
+Filename: debs/com.skylerk99.slidepercent_0.0.1_iphoneos-arm.deb
 Size: 3804
 MD5sum: 35a5563c003cf76214609714b1941912
 SHA1: d3d08c8a1ce10e001a66a20fc99a018688dfcfc9
@@ -550,7 +550,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.statusdown_0.1_iphoneos-arm.deb
+Filename: debs/com.skylerk99.statusdown_0.1_iphoneos-arm.deb
 Size: 4010
 MD5sum: d19d2ad3ba5faba7c9edf0aa51e77b0b
 SHA1: 1c3111d3fd681397515236dd1e4a525d22a3fce4
@@ -566,7 +566,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.stopclock_0.1.0_iphoneos-arm.deb
+Filename: debs/com.skylerk99.stopclock_0.1.0_iphoneos-arm.deb
 Size: 3096
 MD5sum: 85ffba94c66c1f8d30505a5655aade1e
 SHA1: 34e1bcd3781a33bb9d9b9cd10de75758525384a4
@@ -582,7 +582,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 316
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.switchertweak_0.2-9_iphoneos-arm.deb
+Filename: debs/com.skylerk99.switchertweak_0.2-9_iphoneos-arm.deb
 Size: 31970
 MD5sum: 0174f8ccb2384e8e55e4fc51fb5ac61d
 SHA1: 5a6887d37326947a4d0b48d60599528b9ea27160
@@ -598,7 +598,7 @@ Architecture: iphoneos-arm
 Maintainer: Skyler Kansala
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs//com.skylerk99.unreplied_0.0.1_iphoneos-arm.deb
+Filename: debs/com.skylerk99.unreplied_0.0.1_iphoneos-arm.deb
 Size: 3874
 MD5sum: e70a36b9fe5c949f2f0cef3d134386a9
 SHA1: c78ed4b1454a81ae804a635bc04115b18f3e4b2d
