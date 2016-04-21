@@ -112,18 +112,18 @@ Author: Skyler Kansala
 Name: CoC Flipper
 
 Package: com.skylerk99.fitpusher
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: Skyler Kansala <skylerk99@gmail.com>
-Installed-Size: 492
+Installed-Size: 512
 Depends: mobilesubstrate, applist
-Filename: debs/com.skylerk99.fitpusher_0.0.3_iphoneos-arm.deb
-Size: 55030
-MD5sum: 192132a693c772dc36f0236c09652ab7
-SHA1: 087feed5e82ecaad9e856868dd9661491c5e8c11
-SHA256: b0bc277d533c5071676df37fac4c2a42c5447add7b829edda9d929f788fcfb5a
+Filename: debs/com.skylerk99.fitpusher_0.0.4_iphoneos-arm.deb
+Size: 56790
+MD5sum: ac90c3188b91aba418473df50cb0e53d
+SHA1: 5d551ceeb7b41db41b0bc2643a7ebff378c1bd47
+SHA256: d0bbe48175210c00354a77e4aa5e9f50d60b48b5f847f3eac99a7b754aa83be5
 Section: Tweaks
-Description: Push all notifications to fitbit trackers.
+Description: Push any notifications to fitbit trackers (Surge and Blaze).
 Author: Skyler Kansala <skylerk99@gmail.com>
 Name: FitPusher
 
