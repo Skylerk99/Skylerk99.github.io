@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /Users/SJKansala/GitHub/Skylerk99.github.io/
+cd /Users/SJKansala/Code/Skylerk99.github.io
 
 
 bzip2 -fks Packages
