@@ -1,6 +1,4 @@
 #!/bin/bash
 cd /Users/SJKansala/Code/Skylerk99.github.io
 
-dpkg-scanpackages debs / > Packages
-
-bzip2 -fks Packages
+/Users/SJKansala/Code/Skylerk99.github.io/update.sh
