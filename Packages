@@ -662,15 +662,15 @@ Name: KBFloater
 Author: Skyler Kansala
 
 Package: com.skylerk99.locfix
-Version: 1
+Version: 1.0.0.0
 Section: Tweaks
 Maintainer: Skyler Kansala
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.locfix_1_iphoneos-arm.deb
-Size: 962
+Filename: .//pkgfiles/com.skylerk99.locfix_1.0.0.0_iphoneos-arm.deb
+Size: 966
 Installed-Size: 0
-MD5sum: ed4b1a20a6e140d1a51b32cdad950b5f
+MD5sum: a5e30512d70873462a32604bb86affed
 Description: Moves Liblocation to its proper location.
 Name: LocationFix
 Author: Skyler Kansala
