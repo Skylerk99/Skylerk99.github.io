@@ -661,6 +661,20 @@ Description: An awesome MobileSubstrate tweak!
 Name: KBFloater
 Author: Skyler Kansala
 
+Package: com.skylerk99.locfix
+Version: 1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, net.mobileinnova.liblocation
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.locfix_1_iphoneos-arm.deb
+Size: 926
+Installed-Size: 0
+MD5sum: cc4cb1f22062a4177459dbf289ccf98b
+Description: Moves Liblocation to its proper location.
+Name: LocationFix
+Author: Skyler Kansala
+
 Package: com.skylerk99.locklog
 Version: 0.0.1-9+debug
 Section: Tweaks
