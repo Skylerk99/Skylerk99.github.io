@@ -661,6 +661,20 @@ Description: An awesome MobileSubstrate tweak!
 Name: KBFloater
 Author: Skyler Kansala
 
+Package: com.skylerk99.lastclose
+Version: 0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.lastclose_0.1_iphoneos-arm.deb
+Size: 3868
+Installed-Size: 120
+MD5sum: ff458be00db549fa9291c49207962929
+Description: An awesome MobileSubstrate tweak!
+Name: LastClose
+Author: Skyler Kansala
+
 Package: com.skylerk99.locfix
 Version: 1.0.0.0
 Section: Tweaks
