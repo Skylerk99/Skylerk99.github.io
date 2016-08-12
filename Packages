@@ -1473,6 +1473,20 @@ Description: Swipe up on springboard card to close all apps, swipe down to close
 Name: SwipeHome
 Author: Skyler Kansala
 
+Package: com.skylerk99.swipehoime
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.2_iphoneos-arm.deb
+Size: 5586
+Installed-Size: 120
+MD5sum: 15ed4582104e40315e6b26b942a8052a
+Description: Swipe up on springboard card to close all apps, swipe down to close the switcher.
+Name: SwipeHome
+Author: Skyler Kansala
+
 Package: com.skylerk99.switchertweak
 Version: 0.2-3
 Section: Tweaks
