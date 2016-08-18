@@ -1333,6 +1333,20 @@ Description: Press and hold a reddit title to copy it. Works from post view only
 Name: RedditClip
 Author: Skyler Kansala
 
+Package: com.skylerk99.redditclip
+Version: 0.2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.redditclip_0.2_iphoneos-arm.deb
+Size: 5866
+Installed-Size: 120
+MD5sum: 2e6517de3d6ed407894077d82f41bacb
+Description: Press and hold a reddit title to copy it or Self post text. Works from post view only. Will vibrate when copied. Only for Reddit app.
+Name: RedditClip
+Author: Skyler Kansala
+
 Package: com.skylerk99.rehctiws
 Version: 0.1
 Section: Tweaks
