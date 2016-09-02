@@ -27,6 +27,20 @@ Description: Skip your lockscreen if you don't have notifications
 Name: QuickUnock
 Author: Phillip Tennen
 
+Package: com.skylerk99.bb
+Version: 0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, applist
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.bb_0.1_iphoneos-arm.deb
+Size: 9280
+Installed-Size: 280
+MD5sum: 4343c8714e4697d1f3596d4aab2fdccb
+Description: Blacklist Banners in certain apps. Also whitelist can override the black list if you want to allow certain notifications to always come through.
+Name: BannerBlacklist
+Author: Skyler Kansala
+
 Package: com.skylerk99.ccmeterbackground
 Version: 0.1
 Section: Tweaks
