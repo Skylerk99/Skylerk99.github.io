@@ -153,6 +153,20 @@ Description: Hides top and bottom bar in tweetbot 4. settings to disable and ena
 Name: CleanTB
 Author: Skyler Kansala
 
+Package: com.skylerk99.clockcode
+Version: 0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.clockcode_0.1_iphoneos-arm.deb
+Size: 23478
+Installed-Size: 200
+MD5sum: 583e158325bb4c9e6ff8c3803393cb65
+Description: An awesome MobileSubstrate tweak!
+Name: ClockCode
+Author: Skyler Kansala
+
 Package: com.skylerk99.cocflip
 Version: 0.0.1-10
 Section: Tweaks
