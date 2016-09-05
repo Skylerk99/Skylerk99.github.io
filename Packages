@@ -1483,7 +1483,7 @@ Filename: .//pkgfiles/com.skylerk99.reswitch_0.1_iphoneos-arm.deb
 Size: 6150
 Installed-Size: 140
 MD5sum: e11fdc92ddc272b0e381bdd5f7397457
-Description: Relaunch apps from the app switcher. Just swipe up on any app.
+Description: Relaunch apps from the app switcher. Just swipe down on any app.
 Name: Reswitch
 Author: Skyler Kansala
 
