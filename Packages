@@ -1459,6 +1459,20 @@ Description: Option to hide battery elements.
 Name: RemoveBattery
 Author: Skylerk99
 
+Package: com.skylerk99.reswitch
+Version: 0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.reswitch_0.1_iphoneos-arm.deb
+Size: 6148
+Installed-Size: 140
+MD5sum: d71510b93e3f73f6f0fdb21af573c4dd
+Description: An awesome MobileSubstrate tweak!
+Name: Reswitch
+Author: Skyler Kansala
+
 Package: com.skylerk99.safarifix
 Version: 0.0.1
 Section: Tweaks
