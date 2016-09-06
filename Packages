@@ -195,6 +195,20 @@ Description: An awesome MobileSubstrate tweak!
 Name: ClockCode
 Author: Skyler Kansala
 
+Package: com.skylerk99.clockcode
+Version: 0.4
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.clockcode_0.4_iphoneos-arm.deb
+Size: 36272
+Installed-Size: 368
+MD5sum: 83e055350860171066efb7d1c17fef66
+Description: Clock based passcode with options. iOS 9+ support. Untested on prior iOS.
+Name: ClockCode
+Author: Skyler Kansala
+
 Package: com.skylerk99.cocflip
 Version: 0.0.1-10
 Section: Tweaks
