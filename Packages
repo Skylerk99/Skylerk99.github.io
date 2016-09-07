@@ -251,6 +251,20 @@ Description: Clock based passcode with options. iOS 9+ support. Untested on prio
 Name: ClockCode
 Author: Skyler Kansala
 
+Package: com.skylerk99.clockcode
+Version: 0.7
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.clockcode_0.7_iphoneos-arm.deb
+Size: 38056
+Installed-Size: 388
+MD5sum: 9cc0e6e2c19338aeaf05a16f1fe68f51
+Description: Clock based passcode with options. iOS 9.2+ support. Untested on prior iOS.
+Name: ClockCode
+Author: Skyler Kansala
+
 Package: com.skylerk99.cocflip
 Version: 0.0.1-10
 Section: Tweaks
