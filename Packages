@@ -1767,6 +1767,20 @@ Description: Tweak the app switcher in iOS 9. Direction, SB page swipe Respringi
 Name: SwitcherTweak
 Author: Skyler Kansala
 
+Package: com.skylerk99.touchonly
+Version: 0.0.1-2+debug
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.touchonly_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3800
+Installed-Size: 136
+MD5sum: cb85cfc6cb8e5c18d25a9331d36eb789
+Description: Only allow touchID to unlock. As a failsafe enter 723366 (spells SAFEMO) to enter safe mode.
+Name: TouchOnly
+Author: Skyler Kansala
+
 Package: com.skylerk99.unreplied
 Version: 0.0.1
 Section: Tweaks
