@@ -27,6 +27,20 @@ Description: Skip your lockscreen if you don't have notifications
 Name: QuickUnock
 Author: Phillip Tennen
 
+Package: com.sharedroutine.skylerk99.palbreak
+Version: 1.2
+Section: Tweaks
+Maintainer: Janosch Skylerk99
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.sharedroutine.skylerk99.palbreak_1.2_iphoneos-arm.deb
+Size: 10680
+Installed-Size: 448
+MD5sum: bd639aa5730a7f6a2a296ef912b5a9b8
+Description: Disable substrate from loading in particular apps. Forked version on PalBreak.
+Name: NoSub (PalBreak w/ options)
+Author: Janosch Skylerk99
+
 Package: com.skylerk99.bb
 Version: 0.1
 Section: Tweaks
