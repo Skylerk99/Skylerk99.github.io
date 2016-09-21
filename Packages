@@ -32,6 +32,7 @@ Version: 1.2
 Section: Tweaks
 Maintainer: Janosch Skylerk99
 Depends: mobilesubstrate
+Conflicts: com.sharedroutine.palbreak
 Architecture: iphoneos-arm
 Filename: .//pkgfiles/com.sharedroutine.skylerk99.palbreak_1.2_iphoneos-arm.deb
 Size: 10680
