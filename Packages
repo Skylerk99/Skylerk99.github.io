@@ -42,6 +42,21 @@ Description: Disable substrate from loading in particular apps. Forked version o
 Name: NoSub (PalBreak w/ options)
 Author: Janosch Skylerk99
 
+Package: com.sharedroutine.skylerk99.palbreak
+Version: 1.3
+Section: Tweaks
+Maintainer: Janosch, Skylerk99
+Depends: mobilesubstrate
+Conflicts: com.sharedroutine.palbreak
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.sharedroutine.skylerk99.palbreak_1.3_iphoneos-arm.deb
+Size: 15054
+Installed-Size: 460
+MD5sum: 52689d6e405c1eca9127ecd2f0c82d78
+Description: Block Substrate in any particular app using a blacklist in the settings. (Same as PalBreak but allows it to work for any app. To get PayPal working install and enable PayPal in the settings.)
+Name: NoSub (PalBreak w/ options)
+Author: Janosch, Skylerk99
+
 Package: com.skylerk99.bb
 Version: 0.1
 Section: Tweaks
