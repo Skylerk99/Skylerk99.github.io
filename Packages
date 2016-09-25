@@ -32,7 +32,6 @@ Version: 1.2
 Section: Tweaks
 Maintainer: Janosch Skylerk99
 Depends: mobilesubstrate
-Conflicts: com.sharedroutine.palbreak
 Architecture: iphoneos-arm
 Filename: .//pkgfiles/com.sharedroutine.skylerk99.palbreak_1.2_iphoneos-arm.deb
 Size: 10680
@@ -321,6 +320,20 @@ Installed-Size: 152
 MD5sum: 51ad04d4aeba73c8b435004e5da7b08e
 Description: Very crude portrait mode on Clash of Clans. Simply shrinks the landscape mode to fit in portrait...
 Name: CoC Flipper
+Author: Skyler Kansala
+
+Package: com.skylerk99.cyspring
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.cyspring_0.0.1_iphoneos-arm.deb
+Size: 4182
+Installed-Size: 272
+MD5sum: 211a823ba6e3c6a8db697a0480dd7465
+Description: Stops Cydia resprings from killing battery information.
+Name: CySpring
 Author: Skyler Kansala
 
 Package: com.skylerk99.fitpusher
