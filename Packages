@@ -322,6 +322,20 @@ Description: Very crude portrait mode on Clash of Clans. Simply shrinks the land
 Name: CoC Flipper
 Author: Skyler Kansala
 
+Package: com.skylerk99.cq
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.cq_0.0.1_iphoneos-arm.deb
+Size: 3410
+Installed-Size: 120
+MD5sum: c27d0ccf0e31ddaeeb76d4aa4f3899b8
+Description: Cancel button doesn't clear the queue in Cydia. To clear the queue, open the queue manually by clicking the queue button in the navigation bar, when the queue is manually opened the cancel button behaves as it normally would.
+Name: CancelQueue
+Author: Skyler Kansala
+
 Package: com.skylerk99.cyspring
 Version: 0.0.1
 Section: Tweaks
