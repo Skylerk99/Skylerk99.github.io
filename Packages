@@ -1292,6 +1292,34 @@ Description: Remove Statusbar screen lock indicator.
 Name: NoLockIndicator
 Author: Skyler Kansala
 
+Package: com.skylerk99.nonotif
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.nonotif_0.0.1_iphoneos-arm.deb
+Size: 9050
+Installed-Size: 120
+MD5sum: dd38eb6f9f7e207f1a3cf09ebee17f7e
+Description: Suspend notifications via swiping an app card down.
+Name: NotifSuspend
+Author: Skyler Kansala
+
+Package: com.skylerk99.nonotif
+Version: 0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.nonotif_0.1_iphoneos-arm.deb
+Size: 9104
+Installed-Size: 120
+MD5sum: 3b16e1babd271717abf6fc99e631a476
+Description: Suspend notifications via swiping an app card down.
+Name: NotifSuspend
+Author: Skyler Kansala
+
 Package: com.skylerk99.nonowarror
 Version: 1.0
 Section: Tweaks
