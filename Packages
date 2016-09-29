@@ -1320,6 +1320,20 @@ Description: Suspend notifications via swiping an app card down.
 Name: NotifSuspend
 Author: Skyler Kansala
 
+Package: com.skylerk99.nonotif
+Version: 0.2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.nonotif_0.2_iphoneos-arm.deb
+Size: 9688
+Installed-Size: 120
+MD5sum: 3a492a25b6a79312e2c82cf6b1f0baf7
+Description: Suspend notifications via swiping an app card down.
+Name: NotifSuspend
+Author: Skyler Kansala
+
 Package: com.skylerk99.nonowarror
 Version: 1.0
 Section: Tweaks
