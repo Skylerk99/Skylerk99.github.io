@@ -1321,6 +1321,20 @@ Name: NotifSuspend
 Author: Skyler Kansala
 
 Package: com.skylerk99.nonotif
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.nonotif_0.2.1_iphoneos-arm.deb
+Size: 10610
+Installed-Size: 120
+MD5sum: 43c0ea98a972ef1cb143980128af7630
+Description: Suspend notifications via swiping an app card down. Now with option to suspend based on day of week.
+Name: NotifSuspend
+Author: Skyler Kansala
+
+Package: com.skylerk99.nonotif
 Version: 0.2
 Section: Tweaks
 Maintainer: Skyler Kansala
