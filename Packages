@@ -351,6 +351,21 @@ Description: Cancel button doesn't clear the queue in Cydia. To clear the queue,
 Name: CancelQueue 2
 Author: Skyler Kansala
 
+Package: com.skylerk99.cq2
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Conflicts: com.skylerk99.cq
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.cq2_0.0.2_iphoneos-arm.deb
+Size: 4182
+Installed-Size: 120
+MD5sum: 0d3ed34e4b08e0c5ded38595ab3a6628
+Description: Cancel button doesn't clear the queue in Cydia. To clear the queue, open the queue manually by clicking the queue button in the navigation bar, when the queue is manually opened the cancel button behaves as it normally would. In this version if you click cancel it will only cancel the item that is currently being added to the queue, this means if you accidentally add an item clicking cancel will undo this and not mess up your queue.
+Name: CancelQueue 2
+Author: Skyler Kansala
+
 Package: com.skylerk99.cyspring
 Version: 0.0.1
 Section: Tweaks
