@@ -380,6 +380,20 @@ Description: Stops Cydia resprings from killing battery information.
 Name: CySpring
 Author: Skyler Kansala
 
+Package: com.skylerk99.cyspring
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.cyspring_0.0.2_iphoneos-arm.deb
+Size: 6444
+Installed-Size: 272
+MD5sum: fc2d90602d5152f4182ebf1a194faf90
+Description: Stops Cydia resprings from killing battery information. Update:Added switch to the install confirm page to enable or disable UICache on a case by case basis. Keeping it off speeds up package modifications greatly as it skips the long "Loading" wheel, unfortunately it needs to be run when new app icons are being added to the springbaord. This means apps like iFile, Filza, Activator, etc need UICache to be enable during install, but for most tweak installs UICache is unneeded. Disable at own discretion.
+Name: CySpring
+Author: Skyler Kansala
+
 Package: com.skylerk99.fitpusher
 Version: 0.0.1
 Section: Tweaks
