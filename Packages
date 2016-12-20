@@ -56,6 +56,20 @@ Description: Block Substrate in any particular app using a blacklist in the sett
 Name: NoSub (PalBreak w/ options)
 Author: Janosch, Skylerk99
 
+Package: com.sharedroutine.skylerk99.snapbreak
+Version: 1.0
+Section: Tweaks
+Maintainer: Janosch, skylerk99
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.sharedroutine.skylerk99.snapbreak_1.0_iphoneos-arm.deb
+Size: 6006
+Installed-Size: 272
+MD5sum: b058a873404908bafcd8482f86bf32c3
+Description: Block substrate in snapchat only. Works on ios 8 and possibly older. Prevents snapchat bans.
+Name: NoSub (Snapchat only. iOS 8 support)
+Author: Janosch, skylerk99
+
 Package: com.skylerk99.24h
 Version: 0.0.1
 Section: Tweaks
