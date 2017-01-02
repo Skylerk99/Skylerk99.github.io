@@ -27,6 +27,20 @@ Description: Skip your lockscreen if you don't have notifications
 Name: QuickUnock
 Author: Phillip Tennen
 
+Package: com.sharedroutine.skylerk99.disbreak
+Version: 1.0
+Section: Tweaks
+Maintainer: Janosch, skylerk99
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.sharedroutine.skylerk99.disbreak_1.0_iphoneos-arm.deb
+Size: 6008
+Installed-Size: 272
+MD5sum: 51e993964aa3e9090198289e4421e6cb
+Description: Block substrate in Disney Experience. Works on ios 8 and possibly older.
+Name: NoSub (Disney only. iOS 8 support)
+Author: Janosch, skylerk99
+
 Package: com.sharedroutine.skylerk99.palbreak
 Version: 1.2
 Section: Tweaks
