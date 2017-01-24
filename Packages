@@ -41,6 +41,20 @@ Description: Block substrate in Disney Experience. Works on ios 8 and possibly o
 Name: NoSub (Disney only. iOS 8 support)
 Author: Janosch, skylerk99
 
+Package: com.sharedroutine.skylerk99.mlbreak
+Version: 1.0
+Section: Tweaks
+Maintainer: Janosch, skylerk99
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.sharedroutine.skylerk99.mlbreak_1.0_iphoneos-arm.deb
+Size: 5968
+Installed-Size: 272
+MD5sum: e19f1d73a67164af254384cf4d8e4e7d
+Description: Block substrate in Mobile Legends. Works on ios 8 and possibly older.
+Name: NoSub (Mobile Legends. iOS 8 support)
+Author: Janosch, skylerk99
+
 Package: com.sharedroutine.skylerk99.palbreak
 Version: 1.2
 Section: Tweaks
