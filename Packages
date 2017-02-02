@@ -1883,6 +1883,20 @@ Name: StopClock
 Author: Skyler Kansala
 
 Package: com.skylerk99.swipehoime
+Version: 0.1.10
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.10_iphoneos-arm.deb
+Size: 11676
+Installed-Size: 252
+MD5sum: 8141983ef2840bc24e2e245d96fa1443
+Description: Swipe down on the springboard card to close all apps, or swipe up on the springboard card to respring. Also option to keep "Now Playing app open.    Changes(0.1.8): Closes switcher after closing all apps now and fixed description. New invert gesture option and disable which gesture is enabled. Closes switcher instead of opening Now Playing app always.
+Name: SwipeHome
+Author: Skyler Kansala
+
+Package: com.skylerk99.swipehoime
 Version: 0.1.1
 Section: Tweaks
 Maintainer: Skyler Kansala
