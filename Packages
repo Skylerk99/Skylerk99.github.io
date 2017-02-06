@@ -2120,3 +2120,17 @@ Description: Blue dot on the conversation list in the messages app only goes awa
 Name: UnrepliedDot
 Author: Skyler Kansala
 
+Package: com.skylerk99.yalu
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.yalu_0.0.1_iphoneos-arm.deb
+Size: 4996
+Installed-Size: 136
+MD5sum: 3b620a5061ac7fd0b5ea1a567468b5c7
+Description: Shows expiration date in Yalu102 app when opened.
+Name: YaluTime
+Author: Skyler Kansala
+
