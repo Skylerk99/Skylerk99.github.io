@@ -2148,3 +2148,17 @@ Description: Shows expiration date in Yalu102 app when opened.
 Name: YaluTime
 Author: Skyler Kansala
 
+Package: com.skylerk99.yalu
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.yalu_0.1.0_iphoneos-arm.deb
+Size: 6744
+Installed-Size: 136
+MD5sum: 4cb056f9f3f4879368766a481f6bf2c3
+Description: Shows expiration date in Yalu102 app when opened... Full rewrite, now hopefully will have less false (or no) false readings.
+Name: YaluTime
+Author: Skyler Kansala
+
