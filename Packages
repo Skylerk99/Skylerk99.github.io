@@ -140,6 +140,20 @@ Description: CCMeter Background.. Hopefully.
 Name: CCMeterBackground
 Author: Skyler Kansala
 
+Package: com.skylerk99.ccselector
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.ccselector_0.0.1_iphoneos-arm.deb
+Size: 6276
+Installed-Size: 136
+MD5sum: 466e95397b2dd572e0f29f186b781ba3
+Description: Long hold anywhere on CC media player page to bring up menu to open 5 last opened now playing apps. very quick and dirty implementation. Works with Palert.
+Name: CCSelector
+Author: Skyler Kansala
+
 Package: com.skylerk99.chargepulse
 Version: 0.0.1-18
 Section: Tweaks
