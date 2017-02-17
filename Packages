@@ -1350,6 +1350,20 @@ Description: Prompts before closing now playing application.
 Name: NoClose
 Author: Skyler Kansala
 
+Package: com.skylerk99.noclose
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.noclose_0.0.2_iphoneos-arm.deb
+Size: 4600
+Installed-Size: 120
+MD5sum: 236a00db981af834e8f8386ffe2e41d0
+Description: Prompts before closing now playing application.
+Name: NoClose
+Author: Skyler Kansala
+
 Package: com.skylerk99.nodelete
 Version: 1.0
 Section: Tweaks
