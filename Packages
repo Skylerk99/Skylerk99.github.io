@@ -168,6 +168,20 @@ Description: Long hold anywhere on CC media player page to bring up menu to open
 Name: CCSelector
 Author: Skyler Kansala
 
+Package: com.skylerk99.ccselector
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, applist
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.ccselector_0.0.3_iphoneos-arm.deb
+Size: 11846
+Installed-Size: 248
+MD5sum: fb1e332ef57e4351ed2faa974fb329fa
+Description: Long hold anywhere on CC media player page to bring up menu to open 5 last opened now playing apps. very quick and dirty implementation. Works with Palert. [0.0.2] update to dynamically size pick the number of option opposed to filling with the music player. Fixed crashing if a previously used app was deleted while in the list. [0.0.3] Added option to enable/disable features. plus ability to force the default app on cc player.
+Name: CCSelector
+Author: Skyler Kansala
+
 Package: com.skylerk99.chargepulse
 Version: 0.0.1-18
 Section: Tweaks
