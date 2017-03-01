@@ -2207,6 +2207,21 @@ Name: TapController
 Author: Skyler Kansala
 Depiction: http://skylerk99.github.io/depictions/com.skylerk99.tapcontroller/index.html
 
+Package: com.skylerk99.tapcontroller
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.tapcontroller_0.0.4_iphoneos-arm.deb
+Size: 12252
+Installed-Size: 376
+MD5sum: 79d972e8d8e9707a6880c2b79dcd5ee3
+Description: Tap to control default video player like youtube.
+Name: TapController
+Author: Skyler Kansala
+Depiction: http://skylerk99.github.io/depictions/com.skylerk99.tapcontroller/index.html
+
 Package: com.skylerk99.touchonly
 Version: 0.0.1-2+debug
 Section: Tweaks
