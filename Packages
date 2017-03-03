@@ -127,6 +127,36 @@ Name: SubCC
 Author: Skyler Kansala
 Depiction: http://skylerk99.github.io/depictions/com.skylerk99.SubCC/index.html
 
+Package: com.skylerk99.SubCC
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.SubCC_0.0.2_iphoneos-arm.deb
+Size: 5726
+Installed-Size: 120
+MD5sum: f12b2e299107537c50748a45a1b421ce
+Description: Only the top row shows after first cc slide up. Pull up further for entire cc.
+Name: SubCC
+Author: Skyler Kansala
+Depiction: http://skylerk99.github.io/depictions/com.skylerk99.SubCC/index.html
+
+Package: com.skylerk99.SubCC
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.SubCC_0.0.3_iphoneos-arm.deb
+Size: 6042
+Installed-Size: 120
+MD5sum: 38b4c1c2ce5b433cb2dcd257dc84d578
+Description: Only the top row shows after first cc slide up. Pull up further for entire cc.
+Name: SubCC
+Author: Skyler Kansala
+Depiction: http://skylerk99.github.io/depictions/com.skylerk99.SubCC/index.html
+
 Package: com.skylerk99.bb
 Version: 0.1
 Section: Tweaks
