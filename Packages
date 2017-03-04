@@ -2325,6 +2325,20 @@ Description: Blue dot on the conversation list in the messages app only goes awa
 Name: UnrepliedDot
 Author: Skyler Kansala
 
+Package: com.skylerk99.whoard
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/fixed.deb
+Size: 3826
+Installed-Size: 72
+MD5sum: b4ff9f3add22c4db70f65c212cb08123
+Description: Force white keyboard.
+Name: Whoard
+Author: Skyler Kansala
+
 Package: com.skylerk99.yalu
 Version: 0.0.1
 Section: Tweaks
