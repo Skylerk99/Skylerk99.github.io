@@ -2000,6 +2000,20 @@ Description: Disables FB Newsfeed. No Option, just no feed.
 Name: SelfControl
 Author: Skyler Kansala
 
+Package: com.skylerk99.sendink
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.sendink_0.0.1_iphoneos-arm.deb
+Size: 4354
+Installed-Size: 120
+MD5sum: c8bf0ebf3740c7666371305ef8f962a9
+Description: Always send messages with invisible ink.
+Name: TapController
+Author: Skyler Kansala
+
 Package: com.skylerk99.slidepercent
 Version: 0.0.1
 Section: Tweaks
