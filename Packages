@@ -2021,9 +2021,9 @@ Maintainer: Skyler Kansala
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: .//pkgfiles/com.skylerk99.sendink_0.1_iphoneos-arm.deb
-Size: 4354
-Installed-Size: 120
-MD5sum: 0730a518256bcffb16d844d532a39707
+Size: 6946
+Installed-Size: 248
+MD5sum: f2706a5e8c5647a302fe61f2d9dfa0e0
 Description: Always send messages with invisible ink.
 Name: SendInk
 Author: Skyler Kansala
