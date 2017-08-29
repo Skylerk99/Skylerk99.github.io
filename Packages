@@ -27,6 +27,20 @@ Description: Skip your lockscreen if you don't have notifications
 Name: QuickUnock
 Author: Phillip Tennen
 
+Package: com.sharedroutine.palbreak.disney
+Version: 1.1
+Section: Tweaks
+Maintainer: Skylerk99
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.sharedroutine.palbreak.disney_1.1_iphoneos-arm.deb
+Size: 5728
+Installed-Size: 272
+MD5sum: 9e8fa3f870122b4b3eaf8c7df9f9ad25
+Description: Disneyland break
+Name: PalBreak (Disneyland)
+Author: Janosch, Skylerk99
+
 Package: com.sharedroutine.skylerk99.disbreak
 Version: 1.0
 Section: Tweaks
