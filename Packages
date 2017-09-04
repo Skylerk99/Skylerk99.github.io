@@ -27,20 +27,6 @@ Description: Skip your lockscreen if you don't have notifications
 Name: QuickUnock
 Author: Phillip Tennen
 
-Package: com.sharedroutine.palbreak.disney
-Version: 1.1
-Section: Tweaks
-Maintainer: Skylerk99
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.sharedroutine.palbreak.disney_1.1_iphoneos-arm.deb
-Size: 5728
-Installed-Size: 272
-MD5sum: 9e8fa3f870122b4b3eaf8c7df9f9ad25
-Description: Disneyland break
-Name: PalBreak (Disneyland)
-Author: Janosch, Skylerk99
-
 Package: com.sharedroutine.skylerk99.disbreak
 Version: 1.0
 Section: Tweaks
@@ -53,6 +39,20 @@ Installed-Size: 272
 MD5sum: 51e993964aa3e9090198289e4421e6cb
 Description: Block substrate in Disney Experience. Works on ios 8 and possibly older.
 Name: NoSub (Disney only. iOS 8 support)
+Author: Janosch, skylerk99
+
+Package: com.sharedroutine.skylerk99.dlrbreak
+Version: 1.0
+Section: Tweaks
+Maintainer: Janosch, skylerk99
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.sharedroutine.skylerk99.dlrbreak_1.0_iphoneos-arm.deb
+Size: 5772
+Installed-Size: 272
+MD5sum: 93ebdceef7f3d2d88647f5c375be6c5d
+Description: Block substrate in Disneyland App. Works on ios 8 and possibly older.
+Name: NoSub (Disneyland . iOS 8 support)
 Author: Janosch, skylerk99
 
 Package: com.sharedroutine.skylerk99.mlbreak
