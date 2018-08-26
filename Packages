@@ -1216,6 +1216,20 @@ Description: Logs all passcode attempts
 Name: LockLog
 Author: Skylerk99
 
+Package: com.skylerk99.msgpin
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.msgpin_0.0.1_iphoneos-arm.deb
+Size: 2570
+Installed-Size: 120
+MD5sum: f9b17b56c0634a385b13ddeb3db53986
+Description: Pin Conversations in stock Messages app.
+Name: MsgPin
+Author: Skyler Kansala
+
 Package: com.skylerk99.musicMod
 Version: 1.6
 Section: Tweaks
