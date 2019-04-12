@@ -2098,6 +2098,20 @@ Description: Move lock screen and springboard status bar to bottom of screen.
 Name: StatusDown
 Author: Skyler Kansala
 
+Package: com.skylerk99.stop
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.stop_0.0.1_iphoneos-arm.deb
+Size: 5086
+Installed-Size: 136
+MD5sum: 1f2fbad206d701bad3c1f911be98ba32
+Description: Tweak for the game Stop. Removes ads. Manipulate the letter spinner to land on the letter of your choice. To do so, just slowly rotate and release the spinner on the letter you want. Then simply spin the spinner like normal and it will stop on the original letter.
+Name: Stopstop
+Author: Skyler
+
 Package: com.skylerk99.stopclock
 Version: 0.1.0
 Section: Tweaks
