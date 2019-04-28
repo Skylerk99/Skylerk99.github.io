@@ -127,21 +127,6 @@ Name: 24hrNotif
 Author: Skyler Kansala
 
 Package: com.skylerk99.SubCC
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.SubCC_0.0.1_iphoneos-arm.deb
-Size: 5228
-Installed-Size: 120
-MD5sum: 7064f8b70408fab6f1a06b624206adfb
-Description: Only the top row shows after first cc slide up. Pull up further for entire cc.
-Name: SubCC
-Author: Skyler Kansala
-Depiction: http://skylerk99.github.io/depictions/com.skylerk99.SubCC/index.html
-
-Package: com.skylerk99.SubCC
 Version: 0.0.2
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -151,6 +136,21 @@ Filename: .//pkgfiles/com.skylerk99.SubCC_0.0.2_iphoneos-arm.deb
 Size: 5726
 Installed-Size: 120
 MD5sum: f12b2e299107537c50748a45a1b421ce
+Description: Only the top row shows after first cc slide up. Pull up further for entire cc.
+Name: SubCC
+Author: Skyler Kansala
+Depiction: http://skylerk99.github.io/depictions/com.skylerk99.SubCC/index.html
+
+Package: com.skylerk99.SubCC
+Version: 0.0.6
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, firmware (>=10.0)
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.SubCC_0.0.6_iphoneos-arm.deb
+Size: 11270
+Installed-Size: 248
+MD5sum: a5715d3da92e88f7d3df42f7a02f9f6f
 Description: Only the top row shows after first cc slide up. Pull up further for entire cc.
 Name: SubCC
 Author: Skyler Kansala
@@ -187,6 +187,21 @@ Author: Skyler Kansala
 Depiction: http://skylerk99.github.io/depictions/com.skylerk99.SubCC/index.html
 
 Package: com.skylerk99.SubCC
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.SubCC_0.0.1_iphoneos-arm.deb
+Size: 5228
+Installed-Size: 120
+MD5sum: 7064f8b70408fab6f1a06b624206adfb
+Description: Only the top row shows after first cc slide up. Pull up further for entire cc.
+Name: SubCC
+Author: Skyler Kansala
+Depiction: http://skylerk99.github.io/depictions/com.skylerk99.SubCC/index.html
+
+Package: com.skylerk99.SubCC
 Version: 0.0.5
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -196,21 +211,6 @@ Filename: .//pkgfiles/com.skylerk99.SubCC_0.0.5_iphoneos-arm.deb
 Size: 11180
 Installed-Size: 248
 MD5sum: 64da718da16683cc527be9cb6549328e
-Description: Only the top row shows after first cc slide up. Pull up further for entire cc.
-Name: SubCC
-Author: Skyler Kansala
-Depiction: http://skylerk99.github.io/depictions/com.skylerk99.SubCC/index.html
-
-Package: com.skylerk99.SubCC
-Version: 0.0.6
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate, firmware (>=10.0)
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.SubCC_0.0.6_iphoneos-arm.deb
-Size: 11270
-Installed-Size: 248
-MD5sum: a5715d3da92e88f7d3df42f7a02f9f6f
 Description: Only the top row shows after first cc slide up. Pull up further for entire cc.
 Name: SubCC
 Author: Skyler Kansala
@@ -287,34 +287,6 @@ Name: CCSelector
 Author: Skyler Kansala
 
 Package: com.skylerk99.chargepulse
-Version: 0.0.1-18
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.chargepulse_0.0.1-18_iphoneos-arm.deb
-Size: 4610
-Installed-Size: 72
-MD5sum: e6c25718c3e4a65069c7bbe31d1ba27b
-Description: An awesome MobileSubstrate tweak!
-Name: ChargePulse
-Author: Skyler Kansala
-
-Package: com.skylerk99.chargepulse
-Version: 0.0.1-8
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.chargepulse_0.0.1-8_iphoneos-arm.deb
-Size: 4436
-Installed-Size: 72
-MD5sum: 82c978c35e144808f7b5d772e773c5e2
-Description: An awesome MobileSubstrate tweak!
-Name: ChargePulse
-Author: Skyler Kansala
-
-Package: com.skylerk99.chargepulse
 Version: 0.1r
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -329,6 +301,20 @@ Name: ChargePulse
 Author: Skyler Kansala
 
 Package: com.skylerk99.chargepulse
+Version: 0.0.1-18
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.chargepulse_0.0.1-18_iphoneos-arm.deb
+Size: 4610
+Installed-Size: 72
+MD5sum: e6c25718c3e4a65069c7bbe31d1ba27b
+Description: An awesome MobileSubstrate tweak!
+Name: ChargePulse
+Author: Skyler Kansala
+
+Package: com.skylerk99.chargepulse
 Version: 0.2r
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -339,6 +325,20 @@ Size: 17888
 Installed-Size: 212
 MD5sum: 6c62a46a4c9ebf6a9739fcf032f20c71
 Description: Status bar battery pulsates while charging.
+Name: ChargePulse
+Author: Skyler Kansala
+
+Package: com.skylerk99.chargepulse
+Version: 0.0.1-8
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.chargepulse_0.0.1-8_iphoneos-arm.deb
+Size: 4436
+Installed-Size: 72
+MD5sum: 82c978c35e144808f7b5d772e773c5e2
+Description: An awesome MobileSubstrate tweak!
 Name: ChargePulse
 Author: Skyler Kansala
 
@@ -385,20 +385,6 @@ Name: CleanTB
 Author: Skyler Kansala
 
 Package: com.skylerk99.clockcode
-Version: 0.1
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.clockcode_0.1_iphoneos-arm.deb
-Size: 23478
-Installed-Size: 200
-MD5sum: 583e158325bb4c9e6ff8c3803393cb65
-Description: An awesome MobileSubstrate tweak!
-Name: ClockCode
-Author: Skyler Kansala
-
-Package: com.skylerk99.clockcode
 Version: 0.2
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -409,6 +395,20 @@ Size: 31902
 Installed-Size: 348
 MD5sum: 3801f7a8380cb83b90c8f5be4f12d90e
 Description: An awesome MobileSubstrate tweak!
+Name: ClockCode
+Author: Skyler Kansala
+
+Package: com.skylerk99.clockcode
+Version: 0.6
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.clockcode_0.6_iphoneos-arm.deb
+Size: 37602
+Installed-Size: 372
+MD5sum: cb5b07ff52b3a8c55a6da809d93b7aad
+Description: Clock based passcode with options. iOS 9+ support. Untested on prior iOS.
 Name: ClockCode
 Author: Skyler Kansala
 
@@ -427,6 +427,20 @@ Name: ClockCode
 Author: Skyler Kansala
 
 Package: com.skylerk99.clockcode
+Version: 0.7
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.clockcode_0.7_iphoneos-arm.deb
+Size: 38056
+Installed-Size: 388
+MD5sum: 9cc0e6e2c19338aeaf05a16f1fe68f51
+Description: Clock based passcode with options. iOS 9.2+ support. Untested on prior iOS.
+Name: ClockCode
+Author: Skyler Kansala
+
+Package: com.skylerk99.clockcode
 Version: 0.4
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -437,6 +451,20 @@ Size: 36272
 Installed-Size: 368
 MD5sum: 83e055350860171066efb7d1c17fef66
 Description: Clock based passcode with options. iOS 9+ support. Untested on prior iOS.
+Name: ClockCode
+Author: Skyler Kansala
+
+Package: com.skylerk99.clockcode
+Version: 0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.clockcode_0.1_iphoneos-arm.deb
+Size: 23478
+Installed-Size: 200
+MD5sum: 583e158325bb4c9e6ff8c3803393cb65
+Description: An awesome MobileSubstrate tweak!
 Name: ClockCode
 Author: Skyler Kansala
 
@@ -465,34 +493,6 @@ Size: 37656
 Installed-Size: 372
 MD5sum: a8b78e0463b8e9132148a78b7add67cc
 Description: Clock based passcode with options. iOS 9+ support. Untested on prior iOS.
-Name: ClockCode
-Author: Skyler Kansala
-
-Package: com.skylerk99.clockcode
-Version: 0.6
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.clockcode_0.6_iphoneos-arm.deb
-Size: 37602
-Installed-Size: 372
-MD5sum: cb5b07ff52b3a8c55a6da809d93b7aad
-Description: Clock based passcode with options. iOS 9+ support. Untested on prior iOS.
-Name: ClockCode
-Author: Skyler Kansala
-
-Package: com.skylerk99.clockcode
-Version: 0.7
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.clockcode_0.7_iphoneos-arm.deb
-Size: 38056
-Installed-Size: 388
-MD5sum: 9cc0e6e2c19338aeaf05a16f1fe68f51
-Description: Clock based passcode with options. iOS 9.2+ support. Untested on prior iOS.
 Name: ClockCode
 Author: Skyler Kansala
 
@@ -597,20 +597,6 @@ Name: CySpring
 Author: Skyler Kansala
 
 Package: com.skylerk99.fitpusher
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Skyler Kansala <skylerk99@gmail.com>
-Depends: mobilesubstrate, net.tateu.sendtestbulletin
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.fitpusher_0.0.1_iphoneos-arm.deb
-Size: 5142
-Installed-Size: 136
-MD5sum: 87d97f059a86f3293a6a8366cd376369
-Description: Push all notifications to fitbit trackers.
-Name: FitPusher
-Author: Skyler Kansala <skylerk99@gmail.com>
-
-Package: com.skylerk99.fitpusher
 Version: 0.0.2
 Section: Tweaks
 Maintainer: Skyler Kansala <skylerk99@gmail.com>
@@ -652,6 +638,48 @@ Description: Push any notifications to fitbit trackers (Surge and Blaze).
 Name: FitPusher
 Author: Skyler Kansala <skylerk99@gmail.com>
 
+Package: com.skylerk99.fitpusher
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala <skylerk99@gmail.com>
+Depends: mobilesubstrate, net.tateu.sendtestbulletin
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.fitpusher_0.0.1_iphoneos-arm.deb
+Size: 5142
+Installed-Size: 136
+MD5sum: 87d97f059a86f3293a6a8366cd376369
+Description: Push all notifications to fitbit trackers.
+Name: FitPusher
+Author: Skyler Kansala <skylerk99@gmail.com>
+
+Package: com.skylerk99.flipswipe
+Version: 0.5r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.flipswipe_0.5r_iphoneos-arm.deb
+Size: 27660
+Installed-Size: 400
+MD5sum: b4da0fa08b884932dfcc9cfc919cf73e
+Description: swipe up or down on the camera preview to flip cameras.
+Name: FlipSwipe
+Author: Skyler Kansala
+
+Package: com.skylerk99.flipswipe
+Version: 0.4r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.flipswipe_0.4r_iphoneos-arm.deb
+Size: 26574
+Installed-Size: 400
+MD5sum: 24fe7ac691149480fd442fce86d3e252
+Description: swipe up or down on the camera preview to flip cameras.
+Name: FlipSwipe
+Author: Skyler Kansala
+
 Package: com.skylerk99.flipswipe
 Version: 0.1
 Section: Tweaks
@@ -676,34 +704,6 @@ Filename: .//pkgfiles/com.skylerk99.flipswipe_0.3r_iphoneos-arm.deb
 Size: 26396
 Installed-Size: 236
 MD5sum: 852328ac34f98b84c7f10e63a3dfda3c
-Description: swipe up or down on the camera preview to flip cameras.
-Name: FlipSwipe
-Author: Skyler Kansala
-
-Package: com.skylerk99.flipswipe
-Version: 0.4r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.flipswipe_0.4r_iphoneos-arm.deb
-Size: 26574
-Installed-Size: 400
-MD5sum: 24fe7ac691149480fd442fce86d3e252
-Description: swipe up or down on the camera preview to flip cameras.
-Name: FlipSwipe
-Author: Skyler Kansala
-
-Package: com.skylerk99.flipswipe
-Version: 0.5r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.flipswipe_0.5r_iphoneos-arm.deb
-Size: 27660
-Installed-Size: 400
-MD5sum: b4da0fa08b884932dfcc9cfc919cf73e
 Description: swipe up or down on the camera preview to flip cameras.
 Name: FlipSwipe
 Author: Skyler Kansala
@@ -739,81 +739,6 @@ Name: Floater
 Author: Skyler Kansala
 
 Package: com.skylerk99.floater
-Version: 0.1.12r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.1.12r_iphoneos-arm.deb
-Size: 44620
-Installed-Size: 256
-MD5sum: e622855a151f77e190c96c7d2326f2b0
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.1.4r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.1.4r_iphoneos-arm.deb
-Size: 35294
-Installed-Size: 224
-MD5sum: 2e08096351ef5a74efe8832f8119aaeb
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.1.5r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.1.5r_iphoneos-arm.deb
-Size: 35240
-Installed-Size: 224
-MD5sum: c592585e39677651a791fad28675c395
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.1.6r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.1.6r_iphoneos-arm.deb
-Size: 36780
-Installed-Size: 244
-MD5sum: d2d8104305f4e02cb7c75b9e700e289f
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.1.7r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.1.7r_iphoneos-arm.deb
-Size: 42310
-Installed-Size: 256
-MD5sum: cb09403e9b68eb66a417f865a15bc0af
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
 Version: 0.1.8r
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -824,126 +749,6 @@ Filename: .//pkgfiles/com.skylerk99.floater_0.1.8r_iphoneos-arm.deb
 Size: 43140
 Installed-Size: 256
 MD5sum: 50c4691aeeb76daf20cb899cc2905a9c
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.1.9r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.1.9r_iphoneos-arm.deb
-Size: 44192
-Installed-Size: 256
-MD5sum: b06a6d9aa3cb185c55a029f79fb90ba3
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.2.1r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.2.1r_iphoneos-arm.deb
-Size: 46936
-Installed-Size: 272
-MD5sum: 09fe4ed5d390fb1401047e53374a5226
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.2.2r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.2.2r_iphoneos-arm.deb
-Size: 47428
-Installed-Size: 272
-MD5sum: b6223b335629c0bf8a5a590d57ee60bb
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.2.3r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.2.3r_iphoneos-arm.deb
-Size: 51028
-Installed-Size: 344
-MD5sum: ba3a4b1a6776ee04ed33af550b965a32
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.2.4r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.2.4r_iphoneos-arm.deb
-Size: 49658
-Installed-Size: 272
-MD5sum: 6e44d89b4d3673d32971e802bae97deb
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.2.5r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.2.5r_iphoneos-arm.deb
-Size: 56970
-Installed-Size: 304
-MD5sum: dd6f013f02aa0cfe4256238e50b1a71c
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.2.6r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Conflicts: com.skylerk99.ncfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.2.6r_iphoneos-arm.deb
-Size: 56966
-Installed-Size: 304
-MD5sum: bf4852d064081e1b425ce2ca7e44f876
-Description: Floaty round things...
-Name: Floater
-Author: Skyler Kansala
-
-Package: com.skylerk99.floater
-Version: 0.2.7r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Conflicts: com.skylerk99.ncfloater, com.skylerk99.kbfloater
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.floater_0.2.7r_iphoneos-arm.deb
-Size: 57458
-Installed-Size: 304
-MD5sum: 01de7aac8410ed52c4cd249add5265e4
 Description: Floaty round things...
 Name: Floater
 Author: Skyler Kansala
@@ -964,6 +769,36 @@ Name: Floater
 Author: Skyler Kansala
 
 Package: com.skylerk99.floater
+Version: 0.1.12r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.1.12r_iphoneos-arm.deb
+Size: 44620
+Installed-Size: 256
+MD5sum: e622855a151f77e190c96c7d2326f2b0
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.1.9r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.1.9r_iphoneos-arm.deb
+Size: 44192
+Installed-Size: 256
+MD5sum: b06a6d9aa3cb185c55a029f79fb90ba3
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
 Version: 0.2.9r
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -974,6 +809,171 @@ Filename: .//pkgfiles/com.skylerk99.floater_0.2.9r_iphoneos-arm.deb
 Size: 57004
 Installed-Size: 300
 MD5sum: ada5afcc8f881eb3b761657fc27f3b04
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.1.5r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.1.5r_iphoneos-arm.deb
+Size: 35240
+Installed-Size: 224
+MD5sum: c592585e39677651a791fad28675c395
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.2.5r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.2.5r_iphoneos-arm.deb
+Size: 56970
+Installed-Size: 304
+MD5sum: dd6f013f02aa0cfe4256238e50b1a71c
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.2.1r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.2.1r_iphoneos-arm.deb
+Size: 46936
+Installed-Size: 272
+MD5sum: 09fe4ed5d390fb1401047e53374a5226
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.1.4r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.1.4r_iphoneos-arm.deb
+Size: 35294
+Installed-Size: 224
+MD5sum: 2e08096351ef5a74efe8832f8119aaeb
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.2.4r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.2.4r_iphoneos-arm.deb
+Size: 49658
+Installed-Size: 272
+MD5sum: 6e44d89b4d3673d32971e802bae97deb
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.2.2r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.2.2r_iphoneos-arm.deb
+Size: 47428
+Installed-Size: 272
+MD5sum: b6223b335629c0bf8a5a590d57ee60bb
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.1.7r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.1.7r_iphoneos-arm.deb
+Size: 42310
+Installed-Size: 256
+MD5sum: cb09403e9b68eb66a417f865a15bc0af
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.2.7r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Conflicts: com.skylerk99.ncfloater, com.skylerk99.kbfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.2.7r_iphoneos-arm.deb
+Size: 57458
+Installed-Size: 304
+MD5sum: 01de7aac8410ed52c4cd249add5265e4
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.2.3r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.2.3r_iphoneos-arm.deb
+Size: 51028
+Installed-Size: 344
+MD5sum: ba3a4b1a6776ee04ed33af550b965a32
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.1.6r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.1.6r_iphoneos-arm.deb
+Size: 36780
+Installed-Size: 244
+MD5sum: d2d8104305f4e02cb7c75b9e700e289f
+Description: Floaty round things...
+Name: Floater
+Author: Skyler Kansala
+
+Package: com.skylerk99.floater
+Version: 0.2.6r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Conflicts: com.skylerk99.ncfloater
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.floater_0.2.6r_iphoneos-arm.deb
+Size: 56966
+Installed-Size: 304
+MD5sum: bf4852d064081e1b425ce2ca7e44f876
 Description: Floaty round things...
 Name: Floater
 Author: Skyler Kansala
@@ -993,6 +993,20 @@ Name: ForceColor
 Author: Skyler Kansala
 
 Package: com.skylerk99.forcecolor
+Version: 0.3
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.forcecolor_0.3_iphoneos-arm.deb
+Size: 7722
+Installed-Size: 120
+MD5sum: fab53d9491e29e47ebe2c6319e4d64cd
+Description: Force Touch springboard shortcuts will blur based on icon color
+Name: ForceColor
+Author: Skyler Kansala
+
+Package: com.skylerk99.forcecolor
 Version: 0.2
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -1006,18 +1020,18 @@ Description: Force Touch springboard shortcuts will blur based on icon color
 Name: ForceColor
 Author: Skyler Kansala
 
-Package: com.skylerk99.forcecolor
-Version: 0.3
+Package: com.skylerk99.greenbat
+Version: 2.1r
 Section: Tweaks
 Maintainer: Skyler Kansala
-Depends: mobilesubstrate
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.forcecolor_0.3_iphoneos-arm.deb
-Size: 7722
-Installed-Size: 120
-MD5sum: fab53d9491e29e47ebe2c6319e4d64cd
-Description: Force Touch springboard shortcuts will blur based on icon color
-Name: ForceColor
+Filename: .//pkgfiles/com.skylerk99.greenbat_2.1r_iphoneos-arm.deb
+Size: 26508
+Installed-Size: 264
+MD5sum: f75969a3860c1f43b4c1616ab91f0520
+Description: Change status bar battery color. works on iOS 7/8.
+Name: AlwaysGreen
 Author: Skyler Kansala
 
 Package: com.skylerk99.greenbat
@@ -1044,20 +1058,6 @@ Filename: .//pkgfiles/com.skylerk99.greenbat_2.0r_iphoneos-arm.deb
 Size: 25692
 Installed-Size: 232
 MD5sum: df4f2659b6a943799652a85a03e0a3d6
-Description: Change status bar battery color. works on iOS 7/8.
-Name: AlwaysGreen
-Author: Skyler Kansala
-
-Package: com.skylerk99.greenbat
-Version: 2.1r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.greenbat_2.1r_iphoneos-arm.deb
-Size: 26508
-Installed-Size: 264
-MD5sum: f75969a3860c1f43b4c1616ab91f0520
 Description: Change status bar battery color. works on iOS 7/8.
 Name: AlwaysGreen
 Author: Skyler Kansala
@@ -1105,6 +1105,20 @@ Name: KikRead
 Author: Skyler Kansala
 
 Package: com.skylerk99.lastclose
+Version: 0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.lastclose_0.1_iphoneos-arm.deb
+Size: 3868
+Installed-Size: 120
+MD5sum: ff458be00db549fa9291c49207962929
+Description: An awesome MobileSubstrate tweak!
+Name: LastClose
+Author: Skyler Kansala
+
+Package: com.skylerk99.lastclose
 Version: 0.1.1
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -1132,20 +1146,6 @@ Description: Close App Switcher after last app is closed.
 Name: LastClose
 Author: Skyler Kansala
 
-Package: com.skylerk99.lastclose
-Version: 0.1
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.lastclose_0.1_iphoneos-arm.deb
-Size: 3868
-Installed-Size: 120
-MD5sum: ff458be00db549fa9291c49207962929
-Description: An awesome MobileSubstrate tweak!
-Name: LastClose
-Author: Skyler Kansala
-
 Package: com.skylerk99.locfix
 Version: 1.0.0.0
 Section: Tweaks
@@ -1159,20 +1159,6 @@ MD5sum: a5e30512d70873462a32604bb86affed
 Description: Moves Liblocation to its proper location.
 Name: LocationFix
 Author: Skyler Kansala
-
-Package: com.skylerk99.locklog
-Version: 0.0.1-9+debug
-Section: Tweaks
-Maintainer: Skylerk99
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.locklog_0.0.1-9+debug_iphoneos-arm.deb
-Size: 7730
-Installed-Size: 140
-MD5sum: 981b3f823ac32cc7af189635caf2bde3
-Description: Logs all passcode attempts
-Name: LockLog
-Author: Skylerk99
 
 Package: com.skylerk99.locklog
 Version: 0.0.1
@@ -1189,20 +1175,6 @@ Name: LockLog
 Author: Skylerk99
 
 Package: com.skylerk99.locklog
-Version: 0.0.2
-Section: Tweaks
-Maintainer: Skylerk99
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.locklog_0.0.2_iphoneos-arm.deb
-Size: 5820
-Installed-Size: 136
-MD5sum: ae16804f97657ffaed4d4cffaa5c9861
-Description: Logs all passcode attempts
-Name: LockLog
-Author: Skylerk99
-
-Package: com.skylerk99.locklog
 Version: 0.0.3
 Section: Tweaks
 Maintainer: Skylerk99
@@ -1212,6 +1184,34 @@ Filename: .//pkgfiles/com.skylerk99.locklog_0.0.3_iphoneos-arm.deb
 Size: 5718
 Installed-Size: 136
 MD5sum: e9fdea7a6a8fd4e7f6d044183c2a278d
+Description: Logs all passcode attempts
+Name: LockLog
+Author: Skylerk99
+
+Package: com.skylerk99.locklog
+Version: 0.0.1-9+debug
+Section: Tweaks
+Maintainer: Skylerk99
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.locklog_0.0.1-9+debug_iphoneos-arm.deb
+Size: 7730
+Installed-Size: 140
+MD5sum: 981b3f823ac32cc7af189635caf2bde3
+Description: Logs all passcode attempts
+Name: LockLog
+Author: Skylerk99
+
+Package: com.skylerk99.locklog
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Skylerk99
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.locklog_0.0.2_iphoneos-arm.deb
+Size: 5820
+Installed-Size: 136
+MD5sum: ae16804f97657ffaed4d4cffaa5c9861
 Description: Logs all passcode attempts
 Name: LockLog
 Author: Skylerk99
@@ -1245,71 +1245,15 @@ Name: MusicMod-8.4
 Author: Skyler Kansala
 
 Package: com.skylerk99.musicMod
-Version: 1.7.2
+Version: 2.0r
 Section: Tweaks
 Maintainer: Skyler Kansala
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.musicMod_1.7.2_iphoneos-arm.deb
-Size: 3880040
-Installed-Size: 4056
-MD5sum: c8a3e51959a301b130661f494329be82
-Description: Misc tweaks for 8.4 Apple Music. update 7
-Name: MusicMod-8.4
-Author: Skyler Kansala
-
-Package: com.skylerk99.musicMod
-Version: 1.7.4
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.musicMod_1.7.4_iphoneos-arm.deb
-Size: 3880216
-Installed-Size: 4056
-MD5sum: d14dadb25bea435f8bb72dc3f74e93db
-Description: Misc tweaks for 8.4 Apple Music. update 7
-Name: MusicMod-8.4
-Author: Skyler Kansala
-
-Package: com.skylerk99.musicMod
-Version: 1.7.5-2
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.musicMod_1.7.5-2_iphoneos-arm.deb
-Size: 3878954
-Installed-Size: 4096
-MD5sum: 14d9a7dc34facf3b52cee67188daa792
-Description: Misc tweaks for 8.4 Apple Music. update 7
-Name: MusicMod-8.4
-Author: Skyler Kansala
-
-Package: com.skylerk99.musicMod
-Version: 1.7.5
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.musicMod_1.7.5_iphoneos-arm.deb
-Size: 3874898
-Installed-Size: 4048
-MD5sum: 535a2a36e529490c63392ebffb710205
-Description: Misc tweaks for 8.4 Apple Music. update 7
-Name: MusicMod-8.4
-Author: Skyler Kansala
-
-Package: com.skylerk99.musicMod
-Version: 1.7
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.musicMod_1.7_iphoneos-arm.deb
-Size: 3880124
-Installed-Size: 4056
-MD5sum: b500f2b12bd648daf561c233b753d59b
+Filename: .//pkgfiles/com.skylerk99.musicMod_2.0r_iphoneos-arm.deb
+Size: 3893752
+Installed-Size: 4300
+MD5sum: abc0cb1225e1caf896d6591ce6e5f4f8
 Description: Misc tweaks for 8.4 Apple Music. update 7
 Name: MusicMod-8.4
 Author: Skyler Kansala
@@ -1329,57 +1273,15 @@ Name: MusicMod-8.4
 Author: Skyler Kansala
 
 Package: com.skylerk99.musicMod
-Version: 1.8r
+Version: 1.7.5
 Section: Tweaks
 Maintainer: Skyler Kansala
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.musicMod_1.8r_iphoneos-arm.deb
-Size: 3897222
-Installed-Size: 4344
-MD5sum: 764e24b24a754bdc3bb15f8db7bda371
-Description: Misc tweaks for 8.4 Apple Music. update 7
-Name: MusicMod-8.4
-Author: Skyler Kansala
-
-Package: com.skylerk99.musicMod
-Version: 1.9r2
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.musicMod_1.9r2_iphoneos-arm.deb
-Size: 3903490
-Installed-Size: 4408
-MD5sum: 7b79d0dc3d16e7db0f9c660317cdacac
-Description: Misc tweaks for 8.4 Apple Music. update 7
-Name: MusicMod-8.4
-Author: Skyler Kansala
-
-Package: com.skylerk99.musicMod
-Version: 1.9r3
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.musicMod_1.9r3_iphoneos-arm.deb
-Size: 3903414
-Installed-Size: 4408
-MD5sum: b87d4c1be7b717706bbfe247a1f8a501
-Description: Misc tweaks for 8.4 Apple Music. update 7
-Name: MusicMod-8.4
-Author: Skyler Kansala
-
-Package: com.skylerk99.musicMod
-Version: 1.9r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.musicMod_1.9r_iphoneos-arm.deb
-Size: 3903640
-Installed-Size: 4408
-MD5sum: ba3d18ee3dc04e3709649807a2cf758e
+Filename: .//pkgfiles/com.skylerk99.musicMod_1.7.5_iphoneos-arm.deb
+Size: 3874898
+Installed-Size: 4048
+MD5sum: 535a2a36e529490c63392ebffb710205
 Description: Misc tweaks for 8.4 Apple Music. update 7
 Name: MusicMod-8.4
 Author: Skyler Kansala
@@ -1399,6 +1301,62 @@ Name: MusicMod-8.4
 Author: Skyler Kansala
 
 Package: com.skylerk99.musicMod
+Version: 1.7.5-2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.musicMod_1.7.5-2_iphoneos-arm.deb
+Size: 3878954
+Installed-Size: 4096
+MD5sum: 14d9a7dc34facf3b52cee67188daa792
+Description: Misc tweaks for 8.4 Apple Music. update 7
+Name: MusicMod-8.4
+Author: Skyler Kansala
+
+Package: com.skylerk99.musicMod
+Version: 1.7
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.musicMod_1.7_iphoneos-arm.deb
+Size: 3880124
+Installed-Size: 4056
+MD5sum: b500f2b12bd648daf561c233b753d59b
+Description: Misc tweaks for 8.4 Apple Music. update 7
+Name: MusicMod-8.4
+Author: Skyler Kansala
+
+Package: com.skylerk99.musicMod
+Version: 1.7.4
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.musicMod_1.7.4_iphoneos-arm.deb
+Size: 3880216
+Installed-Size: 4056
+MD5sum: d14dadb25bea435f8bb72dc3f74e93db
+Description: Misc tweaks for 8.4 Apple Music. update 7
+Name: MusicMod-8.4
+Author: Skyler Kansala
+
+Package: com.skylerk99.musicMod
+Version: 1.9r3
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.musicMod_1.9r3_iphoneos-arm.deb
+Size: 3903414
+Installed-Size: 4408
+MD5sum: b87d4c1be7b717706bbfe247a1f8a501
+Description: Misc tweaks for 8.4 Apple Music. update 7
+Name: MusicMod-8.4
+Author: Skyler Kansala
+
+Package: com.skylerk99.musicMod
 Version: 2.0r2
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -1413,15 +1371,57 @@ Name: MusicMod-8.4
 Author: Skyler Kansala
 
 Package: com.skylerk99.musicMod
-Version: 2.0r
+Version: 1.7.2
 Section: Tweaks
 Maintainer: Skyler Kansala
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.musicMod_2.0r_iphoneos-arm.deb
-Size: 3893752
-Installed-Size: 4300
-MD5sum: abc0cb1225e1caf896d6591ce6e5f4f8
+Filename: .//pkgfiles/com.skylerk99.musicMod_1.7.2_iphoneos-arm.deb
+Size: 3880040
+Installed-Size: 4056
+MD5sum: c8a3e51959a301b130661f494329be82
+Description: Misc tweaks for 8.4 Apple Music. update 7
+Name: MusicMod-8.4
+Author: Skyler Kansala
+
+Package: com.skylerk99.musicMod
+Version: 1.9r2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.musicMod_1.9r2_iphoneos-arm.deb
+Size: 3903490
+Installed-Size: 4408
+MD5sum: 7b79d0dc3d16e7db0f9c660317cdacac
+Description: Misc tweaks for 8.4 Apple Music. update 7
+Name: MusicMod-8.4
+Author: Skyler Kansala
+
+Package: com.skylerk99.musicMod
+Version: 1.8r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.musicMod_1.8r_iphoneos-arm.deb
+Size: 3897222
+Installed-Size: 4344
+MD5sum: 764e24b24a754bdc3bb15f8db7bda371
+Description: Misc tweaks for 8.4 Apple Music. update 7
+Name: MusicMod-8.4
+Author: Skyler Kansala
+
+Package: com.skylerk99.musicMod
+Version: 1.9r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.musicMod_1.9r_iphoneos-arm.deb
+Size: 3903640
+Installed-Size: 4408
+MD5sum: ba3d18ee3dc04e3709649807a2cf758e
 Description: Misc tweaks for 8.4 Apple Music. update 7
 Name: MusicMod-8.4
 Author: Skyler Kansala
@@ -1497,20 +1497,6 @@ Name: ConvoPicBeGone
 Author: Skylerk99
 
 Package: com.skylerk99.noclose
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.noclose_0.0.1_iphoneos-arm.deb
-Size: 4274
-Installed-Size: 120
-MD5sum: 47469f42c3ce8e9f305d836f7b98dd34
-Description: Prompts before closing now playing application.
-Name: NoClose
-Author: Skyler Kansala
-
-Package: com.skylerk99.noclose
 Version: 0.0.2
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -1520,6 +1506,20 @@ Filename: .//pkgfiles/com.skylerk99.noclose_0.0.2_iphoneos-arm.deb
 Size: 4600
 Installed-Size: 120
 MD5sum: 236a00db981af834e8f8386ffe2e41d0
+Description: Prompts before closing now playing application.
+Name: NoClose
+Author: Skyler Kansala
+
+Package: com.skylerk99.noclose
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.noclose_0.0.1_iphoneos-arm.deb
+Size: 4274
+Installed-Size: 120
+MD5sum: 47469f42c3ce8e9f305d836f7b98dd34
 Description: Prompts before closing now playing application.
 Name: NoClose
 Author: Skyler Kansala
@@ -1553,15 +1553,15 @@ Name: NoInfoYT
 Author: Skyler Kansala
 
 Package: com.skylerk99.nolockindicator
-Version: 0.0.1-2
+Version: 0.0.1-5
 Section: Tweaks
 Maintainer: Skyler Kansala
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.nolockindicator_0.0.1-2_iphoneos-arm.deb
-Size: 3202
+Filename: .//pkgfiles/com.skylerk99.nolockindicator_0.0.1-5_iphoneos-arm.deb
+Size: 3068
 Installed-Size: 72
-MD5sum: 9c625e39505a7d9cdfc3883f4a85e783
+MD5sum: 1712303f2f94afc60bcfbb59969abbc0
 Description: Remove Statusbar screen lock indicator.
 Name: NoLockIndicator
 Author: Skyler Kansala
@@ -1581,17 +1581,45 @@ Name: NoLockIndicator
 Author: Skyler Kansala
 
 Package: com.skylerk99.nolockindicator
-Version: 0.0.1-5
+Version: 0.0.1-2
 Section: Tweaks
 Maintainer: Skyler Kansala
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.nolockindicator_0.0.1-5_iphoneos-arm.deb
-Size: 3068
+Filename: .//pkgfiles/com.skylerk99.nolockindicator_0.0.1-2_iphoneos-arm.deb
+Size: 3202
 Installed-Size: 72
-MD5sum: 1712303f2f94afc60bcfbb59969abbc0
+MD5sum: 9c625e39505a7d9cdfc3883f4a85e783
 Description: Remove Statusbar screen lock indicator.
 Name: NoLockIndicator
+Author: Skyler Kansala
+
+Package: com.skylerk99.nonotif
+Version: 0.2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.nonotif_0.2_iphoneos-arm.deb
+Size: 9688
+Installed-Size: 120
+MD5sum: 3a492a25b6a79312e2c82cf6b1f0baf7
+Description: Suspend notifications via swiping an app card down.
+Name: NotifSuspend
+Author: Skyler Kansala
+
+Package: com.skylerk99.nonotif
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.nonotif_0.2.1_iphoneos-arm.deb
+Size: 10610
+Installed-Size: 120
+MD5sum: 43c0ea98a972ef1cb143980128af7630
+Description: Suspend notifications via swiping an app card down. Now with option to suspend based on day of week.
+Name: NotifSuspend
 Author: Skyler Kansala
 
 Package: com.skylerk99.nonotif
@@ -1622,34 +1650,6 @@ Description: Suspend notifications via swiping an app card down.
 Name: NotifSuspend
 Author: Skyler Kansala
 
-Package: com.skylerk99.nonotif
-Version: 0.2.1
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.nonotif_0.2.1_iphoneos-arm.deb
-Size: 10610
-Installed-Size: 120
-MD5sum: 43c0ea98a972ef1cb143980128af7630
-Description: Suspend notifications via swiping an app card down. Now with option to suspend based on day of week.
-Name: NotifSuspend
-Author: Skyler Kansala
-
-Package: com.skylerk99.nonotif
-Version: 0.2
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.nonotif_0.2_iphoneos-arm.deb
-Size: 9688
-Installed-Size: 120
-MD5sum: 3a492a25b6a79312e2c82cf6b1f0baf7
-Description: Suspend notifications via swiping an app card down.
-Name: NotifSuspend
-Author: Skyler Kansala
-
 Package: com.skylerk99.nonowarror
 Version: 1.0
 Section: Tweaks
@@ -1665,20 +1665,6 @@ Name: NoMusicArrow
 Author: Skyler Kansala
 
 Package: com.skylerk99.nosplit
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.nosplit_0.0.1_iphoneos-arm.deb
-Size: 3238
-Installed-Size: 136
-MD5sum: 6c2dbd07f78897b2129d86ba7612183f
-Description: No split screen landscape mode on messages app.
-Name: NoSplitMessages
-Author: Skyler Kansala
-
-Package: com.skylerk99.nosplit
 Version: 0.0.2
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -1688,6 +1674,20 @@ Filename: .//pkgfiles/com.skylerk99.nosplit_0.0.2_iphoneos-arm.deb
 Size: 8176
 Installed-Size: 280
 MD5sum: c6af26a90b44a63101429a81b697a8f1
+Description: No split screen landscape mode on messages app.
+Name: NoSplitMessages
+Author: Skyler Kansala
+
+Package: com.skylerk99.nosplit
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.nosplit_0.0.1_iphoneos-arm.deb
+Size: 3238
+Installed-Size: 136
+MD5sum: 6c2dbd07f78897b2129d86ba7612183f
 Description: No split screen landscape mode on messages app.
 Name: NoSplitMessages
 Author: Skyler Kansala
@@ -1707,20 +1707,6 @@ Name: Notate
 Author: Skyler Kansala
 
 Package: com.skylerk99.pageunlimited
-Version: 0.0.1-2
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.pageunlimited_0.0.1-2_iphoneos-arm.deb
-Size: 3028
-Installed-Size: 72
-MD5sum: dfd59f33f4defe9cba7f0f05416d7e43
-Description: NoSpringboard Page limit iOS 8
-Name: PageUnlimited
-Author: Skyler Kansala
-
-Package: com.skylerk99.pageunlimited
 Version: 0.0.1-4
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -1731,6 +1717,20 @@ Size: 3174
 Installed-Size: 72
 MD5sum: c5b90593e23f2295e444e9e15688d2d9
 Description: No Springboard Page limit supports iOS 8, and all iOS versions.
+Name: PageUnlimited
+Author: Skyler Kansala
+
+Package: com.skylerk99.pageunlimited
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.pageunlimited_0.0.1-2_iphoneos-arm.deb
+Size: 3028
+Installed-Size: 72
+MD5sum: dfd59f33f4defe9cba7f0f05416d7e43
+Description: NoSpringboard Page limit iOS 8
 Name: PageUnlimited
 Author: Skyler Kansala
 
@@ -1763,15 +1763,15 @@ Name: PowerBar
 Author: Skyler Kansala
 
 Package: com.skylerk99.powercolor
-Version: 1.0b
+Version: 1.5-1r
 Section: Tweaks
 Maintainer: Skyler Kansala
-Depends: mobilesubstrate
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.powercolor_1.0b_iphoneos-arm.deb
-Size: 9018
-Installed-Size: 88
-MD5sum: 86021e7a30032065da37c7fdcf770258
+Filename: .//pkgfiles/com.skylerk99.powercolor_1.5-1r_iphoneos-arm.deb
+Size: 35038
+Installed-Size: 280
+MD5sum: 06fb42dc47db4163f291a676b1abcf7c
 Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%.
 Name: PowerColor
 Author: Skyler Kansala
@@ -1791,34 +1791,6 @@ Name: PowerColor
 Author: Skyler Kansala
 
 Package: com.skylerk99.powercolor
-Version: 1.2r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.powercolor_1.2r_iphoneos-arm.deb
-Size: 28458
-Installed-Size: 260
-MD5sum: f82913cd5fd6148e6aa183fb64b47b00
-Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%.
-Name: PowerColor
-Author: Skyler Kansala
-
-Package: com.skylerk99.powercolor
-Version: 1.3r
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.powercolor_1.3r_iphoneos-arm.deb
-Size: 35134
-Installed-Size: 280
-MD5sum: 9855437501bed624eca07f63e3942d06
-Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%.
-Name: PowerColor
-Author: Skyler Kansala
-
-Package: com.skylerk99.powercolor
 Version: 1.4r
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -1833,15 +1805,15 @@ Name: PowerColor
 Author: Skyler Kansala
 
 Package: com.skylerk99.powercolor
-Version: 1.5-1r
+Version: 1.0b
 Section: Tweaks
 Maintainer: Skyler Kansala
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.powercolor_1.5-1r_iphoneos-arm.deb
-Size: 35038
-Installed-Size: 280
-MD5sum: 06fb42dc47db4163f291a676b1abcf7c
+Filename: .//pkgfiles/com.skylerk99.powercolor_1.0b_iphoneos-arm.deb
+Size: 9018
+Installed-Size: 88
+MD5sum: 86021e7a30032065da37c7fdcf770258
 Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%.
 Name: PowerColor
 Author: Skyler Kansala
@@ -1861,6 +1833,20 @@ Name: PowerColor
 Author: Skyler Kansala
 
 Package: com.skylerk99.powercolor
+Version: 1.3r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.powercolor_1.3r_iphoneos-arm.deb
+Size: 35134
+Installed-Size: 280
+MD5sum: 9855437501bed624eca07f63e3942d06
+Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%.
+Name: PowerColor
+Author: Skyler Kansala
+
+Package: com.skylerk99.powercolor
 Version: 1.6r
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -1871,6 +1857,20 @@ Size: 37372
 Installed-Size: 312
 MD5sum: 38cfca90556d3892347ac831ad81524a
 Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%. iOS 7-9
+Name: PowerColor
+Author: Skyler Kansala
+
+Package: com.skylerk99.powercolor
+Version: 1.2r
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.powercolor_1.2r_iphoneos-arm.deb
+Size: 28458
+Installed-Size: 260
+MD5sum: f82913cd5fd6148e6aa183fb64b47b00
+Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%.
 Name: PowerColor
 Author: Skyler Kansala
 
@@ -1903,20 +1903,6 @@ Name: RedditClip
 Author: Skyler Kansala
 
 Package: com.skylerk99.rehctiws
-Version: 0.1
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.rehctiws_0.1_iphoneos-arm.deb
-Size: 3966
-Installed-Size: 120
-MD5sum: 313407acd0ae9cdfcc61300878c28133
-Description: An awesome MobileSubstrate tweak!
-Name: rehctiwS
-Author: Skyler Kansala
-
-Package: com.skylerk99.rehctiws
 Version: 0.2-1
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -1928,6 +1914,20 @@ Installed-Size: 120
 MD5sum: 3facc2b518f452b47aa2316662de722f
 Description: An awesome MobileSubstrate tweak!
 Name: rehctiwS
+Author: Skyler Kansala
+
+Package: com.skylerk99.rehctiws
+Version: 0.2-3
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.rehctiws_0.2-3_iphoneos-arm.deb
+Size: 4588
+Installed-Size: 120
+MD5sum: e3adc42c3969f0d1e0d72638df93c510
+Description: Flip ios9 app switcher. Not perfect. Fixed Inverted items.
+Name: SwitcherFlipper
 Author: Skyler Kansala
 
 Package: com.skylerk99.rehctiws
@@ -1945,17 +1945,17 @@ Name: SwitcherFlipper
 Author: Skyler Kansala
 
 Package: com.skylerk99.rehctiws
-Version: 0.2-3
+Version: 0.1
 Section: Tweaks
 Maintainer: Skyler Kansala
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.rehctiws_0.2-3_iphoneos-arm.deb
-Size: 4588
+Filename: .//pkgfiles/com.skylerk99.rehctiws_0.1_iphoneos-arm.deb
+Size: 3966
 Installed-Size: 120
-MD5sum: e3adc42c3969f0d1e0d72638df93c510
-Description: Flip ios9 app switcher. Not perfect. Fixed Inverted items.
-Name: SwitcherFlipper
+MD5sum: 313407acd0ae9cdfcc61300878c28133
+Description: An awesome MobileSubstrate tweak!
+Name: rehctiwS
 Author: Skyler Kansala
 
 Package: com.skylerk99.rembat
@@ -2001,20 +2001,6 @@ Name: RightCalc
 Author: Skyler Kansala
 
 Package: com.skylerk99.safarifix
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.safarifix_0.0.1_iphoneos-arm.deb
-Size: 3284
-Installed-Size: 120
-MD5sum: 02ac165b7757b9c314b8f81d073cb1aa
-Description: Fixes iOS 9 reload issue when opening the search bar quickly.
-Name: safarifix
-Author: Skyler Kansala
-
-Package: com.skylerk99.safarifix
 Version: 0.0.2
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -2024,6 +2010,20 @@ Filename: .//pkgfiles/com.skylerk99.safarifix_0.0.2_iphoneos-arm.deb
 Size: 3286
 Installed-Size: 120
 MD5sum: aba23654b2b7494341e20228a301838d
+Description: Fixes iOS 9 reload issue when opening the search bar quickly.
+Name: safarifix
+Author: Skyler Kansala
+
+Package: com.skylerk99.safarifix
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.safarifix_0.0.1_iphoneos-arm.deb
+Size: 3284
+Installed-Size: 120
+MD5sum: 02ac165b7757b9c314b8f81d073cb1aa
 Description: Fixes iOS 9 reload issue when opening the search bar quickly.
 Name: safarifix
 Author: Skyler Kansala
@@ -2043,20 +2043,6 @@ Name: SelfControl
 Author: Skyler Kansala
 
 Package: com.skylerk99.sendink
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.sendink_0.0.1_iphoneos-arm.deb
-Size: 4354
-Installed-Size: 120
-MD5sum: c8bf0ebf3740c7666371305ef8f962a9
-Description: Always send messages with invisible ink.
-Name: TapController
-Author: Skyler Kansala
-
-Package: com.skylerk99.sendink
 Version: 0.1
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -2068,6 +2054,20 @@ Installed-Size: 248
 MD5sum: f2706a5e8c5647a302fe61f2d9dfa0e0
 Description: Always send messages with invisible ink.
 Name: SendInk
+Author: Skyler Kansala
+
+Package: com.skylerk99.sendink
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.sendink_0.0.1_iphoneos-arm.deb
+Size: 4354
+Installed-Size: 120
+MD5sum: c8bf0ebf3740c7666371305ef8f962a9
+Description: Always send messages with invisible ink.
+Name: TapController
 Author: Skyler Kansala
 
 Package: com.skylerk99.slidepercent
@@ -2127,90 +2127,6 @@ Name: StopClock
 Author: Skyler Kansala
 
 Package: com.skylerk99.swipehoime
-Version: 0.1.10
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.10_iphoneos-arm.deb
-Size: 11676
-Installed-Size: 252
-MD5sum: 8141983ef2840bc24e2e245d96fa1443
-Description: Swipe down on the springboard card to close all apps, or swipe up on the springboard card to respring. Also option to keep "Now Playing app open.    Changes(0.1.8): Closes switcher after closing all apps now and fixed description. New invert gesture option and disable which gesture is enabled. Closes switcher instead of opening Now Playing app always.
-Name: SwipeHome
-Author: Skyler Kansala
-
-Package: com.skylerk99.swipehoime
-Version: 0.1.1
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.1_iphoneos-arm.deb
-Size: 5510
-Installed-Size: 120
-MD5sum: 024aecb9c9a0f124f1f0dad8198ff4e6
-Description: Swipe up on springboard card to close all apps, swipe down to close the switcher.
-Name: SwipeHome
-Author: Skyler Kansala
-
-Package: com.skylerk99.swipehoime
-Version: 0.1.2
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.2_iphoneos-arm.deb
-Size: 5586
-Installed-Size: 120
-MD5sum: 15ed4582104e40315e6b26b942a8052a
-Description: Swipe up on springboard card to close all apps, swipe down to close the switcher.
-Name: SwipeHome
-Author: Skyler Kansala
-
-Package: com.skylerk99.swipehoime
-Version: 0.1.4
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.4_iphoneos-arm.deb
-Size: 10938
-Installed-Size: 252
-MD5sum: 4f48ebdd9f635ef65b84aecfbf6e78f7
-Description: Swipe up on springboard card to close all apps, swipe down to close the switcher.
-Name: SwipeHome
-Author: Skyler Kansala
-
-Package: com.skylerk99.swipehoime
-Version: 0.1.5
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.5_iphoneos-arm.deb
-Size: 11146
-Installed-Size: 252
-MD5sum: 3b89a58b454ff1bd75b36e3fed2bb8d9
-Description: Swipe down on the springboard card to close all apps, or swipe up on the springboard card to respring. Also option to keep "Now Playing app open.    Changes(0.1.5): Closes switcher after closing all apps now and fixed description.
-Name: SwipeHome
-Author: Skyler Kansala
-
-Package: com.skylerk99.swipehoime
-Version: 0.1.6
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.6_iphoneos-arm.deb
-Size: 11362
-Installed-Size: 252
-MD5sum: 3d54f4136b011a49ff7dc91f63ced074
-Description: Swipe down on the springboard card to close all apps, or swipe up on the springboard card to respring. Also option to keep "Now Playing app open.    Changes(0.1.6): Closes switcher after closing all apps now and fixed description. New invert gesture option.
-Name: SwipeHome
-Author: Skyler Kansala
-
-Package: com.skylerk99.swipehoime
 Version: 0.1.7
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -2239,6 +2155,34 @@ Name: SwipeHome
 Author: Skyler Kansala
 
 Package: com.skylerk99.swipehoime
+Version: 0.1.6
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.6_iphoneos-arm.deb
+Size: 11362
+Installed-Size: 252
+MD5sum: 3d54f4136b011a49ff7dc91f63ced074
+Description: Swipe down on the springboard card to close all apps, or swipe up on the springboard card to respring. Also option to keep "Now Playing app open.    Changes(0.1.6): Closes switcher after closing all apps now and fixed description. New invert gesture option.
+Name: SwipeHome
+Author: Skyler Kansala
+
+Package: com.skylerk99.swipehoime
+Version: 0.1.10
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.10_iphoneos-arm.deb
+Size: 11676
+Installed-Size: 252
+MD5sum: 8141983ef2840bc24e2e245d96fa1443
+Description: Swipe down on the springboard card to close all apps, or swipe up on the springboard card to respring. Also option to keep "Now Playing app open.    Changes(0.1.8): Closes switcher after closing all apps now and fixed description. New invert gesture option and disable which gesture is enabled. Closes switcher instead of opening Now Playing app always.
+Name: SwipeHome
+Author: Skyler Kansala
+
+Package: com.skylerk99.swipehoime
 Version: 0.1.9
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -2252,6 +2196,76 @@ Description: Swipe down on the springboard card to close all apps, or swipe up o
 Name: SwipeHome
 Author: Skyler Kansala
 
+Package: com.skylerk99.swipehoime
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.2_iphoneos-arm.deb
+Size: 5586
+Installed-Size: 120
+MD5sum: 15ed4582104e40315e6b26b942a8052a
+Description: Swipe up on springboard card to close all apps, swipe down to close the switcher.
+Name: SwipeHome
+Author: Skyler Kansala
+
+Package: com.skylerk99.swipehoime
+Version: 0.1.5
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.5_iphoneos-arm.deb
+Size: 11146
+Installed-Size: 252
+MD5sum: 3b89a58b454ff1bd75b36e3fed2bb8d9
+Description: Swipe down on the springboard card to close all apps, or swipe up on the springboard card to respring. Also option to keep "Now Playing app open.    Changes(0.1.5): Closes switcher after closing all apps now and fixed description.
+Name: SwipeHome
+Author: Skyler Kansala
+
+Package: com.skylerk99.swipehoime
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.1_iphoneos-arm.deb
+Size: 5510
+Installed-Size: 120
+MD5sum: 024aecb9c9a0f124f1f0dad8198ff4e6
+Description: Swipe up on springboard card to close all apps, swipe down to close the switcher.
+Name: SwipeHome
+Author: Skyler Kansala
+
+Package: com.skylerk99.swipehoime
+Version: 0.1.4
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.swipehoime_0.1.4_iphoneos-arm.deb
+Size: 10938
+Installed-Size: 252
+MD5sum: 4f48ebdd9f635ef65b84aecfbf6e78f7
+Description: Swipe up on springboard card to close all apps, swipe down to close the switcher.
+Name: SwipeHome
+Author: Skyler Kansala
+
+Package: com.skylerk99.switchertweak
+Version: 0.2-7
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.switchertweak_0.2-7_iphoneos-arm.deb
+Size: 16396
+Installed-Size: 220
+MD5sum: 937af37c2cfd1dd256500761eebbc652
+Description: Tweak the app switcher in iOS 9. Direction, SB page swipe Respringing, Blurring options, default switcher page.
+Name: SwitcherTweak
+Author: Skyler Kansala
+
 Package: com.skylerk99.switchertweak
 Version: 0.2-3
 Section: Tweaks
@@ -2262,34 +2276,6 @@ Filename: .//pkgfiles/com.skylerk99.switchertweak_0.2-3_iphoneos-arm.deb
 Size: 13138
 Installed-Size: 212
 MD5sum: e265c231e407e6be44ac502f9b59f975
-Description: Tweak the app switcher in iOS 9
-Name: SwitcherTweak
-Author: Skyler Kansala
-
-Package: com.skylerk99.switchertweak
-Version: 0.2-4
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.switchertweak_0.2-4_iphoneos-arm.deb
-Size: 13366
-Installed-Size: 216
-MD5sum: 3a8aea1c2c7f4c5a02736fc0653f5b8f
-Description: Tweak the app switcher in iOS 9
-Name: SwitcherTweak
-Author: Skyler Kansala
-
-Package: com.skylerk99.switchertweak
-Version: 0.2-5
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.switchertweak_0.2-5_iphoneos-arm.deb
-Size: 13614
-Installed-Size: 216
-MD5sum: 9c46829a8423b80d804cecac6133953a
 Description: Tweak the app switcher in iOS 9
 Name: SwitcherTweak
 Author: Skyler Kansala
@@ -2309,20 +2295,6 @@ Name: SwitcherTweak
 Author: Skyler Kansala
 
 Package: com.skylerk99.switchertweak
-Version: 0.2-7
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.switchertweak_0.2-7_iphoneos-arm.deb
-Size: 16396
-Installed-Size: 220
-MD5sum: 937af37c2cfd1dd256500761eebbc652
-Description: Tweak the app switcher in iOS 9. Direction, SB page swipe Respringing, Blurring options, default switcher page.
-Name: SwitcherTweak
-Author: Skyler Kansala
-
-Package: com.skylerk99.switchertweak
 Version: 0.2-9
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -2333,6 +2305,34 @@ Size: 31970
 Installed-Size: 316
 MD5sum: 0174f8ccb2384e8e55e4fc51fb5ac61d
 Description: Tweak the app switcher in iOS 9. Direction, SB page swipe Respringing, Blurring options, default switcher page.
+Name: SwitcherTweak
+Author: Skyler Kansala
+
+Package: com.skylerk99.switchertweak
+Version: 0.2-5
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.switchertweak_0.2-5_iphoneos-arm.deb
+Size: 13614
+Installed-Size: 216
+MD5sum: 9c46829a8423b80d804cecac6133953a
+Description: Tweak the app switcher in iOS 9
+Name: SwitcherTweak
+Author: Skyler Kansala
+
+Package: com.skylerk99.switchertweak
+Version: 0.2-4
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.switchertweak_0.2-4_iphoneos-arm.deb
+Size: 13366
+Installed-Size: 216
+MD5sum: 3a8aea1c2c7f4c5a02736fc0653f5b8f
+Description: Tweak the app switcher in iOS 9
 Name: SwitcherTweak
 Author: Skyler Kansala
 
@@ -2352,15 +2352,15 @@ Author: Skyler Kansala
 Depiction: http://skylerk99.github.io/depictions/com.skylerk99.tapcontroller/index.html
 
 Package: com.skylerk99.tapcontroller
-Version: 0.0.2
+Version: 0.0.4
 Section: Tweaks
 Maintainer: Skyler Kansala
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.tapcontroller_0.0.2_iphoneos-arm.deb
-Size: 3350
-Installed-Size: 120
-MD5sum: bb0833a6f4dc79d4344e79c31c3e381f
+Filename: .//pkgfiles/com.skylerk99.tapcontroller_0.0.4_iphoneos-arm.deb
+Size: 12252
+Installed-Size: 376
+MD5sum: 79d972e8d8e9707a6880c2b79dcd5ee3
 Description: Tap to control default video player like youtube.
 Name: TapController
 Author: Skyler Kansala
@@ -2382,15 +2382,15 @@ Author: Skyler Kansala
 Depiction: http://skylerk99.github.io/depictions/com.skylerk99.tapcontroller/index.html
 
 Package: com.skylerk99.tapcontroller
-Version: 0.0.4
+Version: 0.0.2
 Section: Tweaks
 Maintainer: Skyler Kansala
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.tapcontroller_0.0.4_iphoneos-arm.deb
-Size: 12252
-Installed-Size: 376
-MD5sum: 79d972e8d8e9707a6880c2b79dcd5ee3
+Filename: .//pkgfiles/com.skylerk99.tapcontroller_0.0.2_iphoneos-arm.deb
+Size: 3350
+Installed-Size: 120
+MD5sum: bb0833a6f4dc79d4344e79c31c3e381f
 Description: Tap to control default video player like youtube.
 Name: TapController
 Author: Skyler Kansala
@@ -2409,6 +2409,20 @@ MD5sum: cb85cfc6cb8e5c18d25a9331d36eb789
 Description: Only allow touchID to unlock. As a failsafe enter 723366 (spells SAFEMO) to enter safe mode.
 Name: TouchOnly
 Author: Skyler Kansala
+
+Package: com.skylerk99.typereceipt
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.typereceipt_0.0.1_iphoneos-arm.deb
+Size: 3304
+Installed-Size: 136
+MD5sum: c91ae54834e1af0c4fa090d7da597d9a
+Description: Won't send read receipt until typing begins. Block typing notifications from being sent as well.
+Name: TypeReceipt
+Author: Skyler
 
 Package: com.skylerk99.unreplied
 Version: 0.0.1
@@ -2439,20 +2453,6 @@ Name: Whoard
 Author: Skyler Kansala
 
 Package: com.skylerk99.yalu
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Skyler Kansala
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.yalu_0.0.1_iphoneos-arm.deb
-Size: 4996
-Installed-Size: 136
-MD5sum: 3b620a5061ac7fd0b5ea1a567468b5c7
-Description: Shows expiration date in Yalu102 app when opened.
-Name: YaluTime
-Author: Skyler Kansala
-
-Package: com.skylerk99.yalu
 Version: 0.0.2
 Section: Tweaks
 Maintainer: Skyler Kansala
@@ -2477,6 +2477,20 @@ Size: 6200
 Installed-Size: 136
 MD5sum: 43acf366f60fe3edbeb74cec0fcd9439
 Description: Shows expiration date in Yalu102 app when opened... Full rewrite, now hopefully will have less false (or no) false readings.
+Name: YaluTime
+Author: Skyler Kansala
+
+Package: com.skylerk99.yalu
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.yalu_0.0.1_iphoneos-arm.deb
+Size: 4996
+Installed-Size: 136
+MD5sum: 3b620a5061ac7fd0b5ea1a567468b5c7
+Description: Shows expiration date in Yalu102 app when opened.
 Name: YaluTime
 Author: Skyler Kansala
 
