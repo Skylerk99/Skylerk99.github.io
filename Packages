@@ -2411,6 +2411,20 @@ Name: TouchOnly
 Author: Skyler Kansala
 
 Package: com.skylerk99.typereceipt
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Skyler
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.typereceipt_0.0.2_iphoneos-arm.deb
+Size: 3908
+Installed-Size: 200
+MD5sum: 9ba1622f9ec9db20ec85b9933a77223c
+Description: Won't send read receipt until typing begins. Block typing notifications from being sent as well.
+Name: TypeReceipt
+Author: Skyler
+
+Package: com.skylerk99.typereceipt
 Version: 0.0.1
 Section: Tweaks
 Maintainer: Skyler
