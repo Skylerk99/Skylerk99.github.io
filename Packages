@@ -1468,6 +1468,20 @@ Description: Removes now playing status bar from 8.4 music app.
 Name: NoMusicStatusbar
 Author: Skyler Kansala
 
+Package: com.skylerk99.nobadge
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.nobadge_0.0.1_iphoneos-arm.deb
+Size: 3422
+Installed-Size: 264
+MD5sum: fc03aa58d607379af1e08823c114e3fe
+Description: Remove badge on settings app.
+Name: NoSettingBadge
+Author: Skyler Kansala
+
 Package: com.skylerk99.noburst
 Version: 1-3
 Section: Tweaks
