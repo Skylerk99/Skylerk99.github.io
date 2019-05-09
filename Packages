@@ -1230,6 +1230,20 @@ Description: Pin Conversations in stock Messages app.
 Name: MsgPin
 Author: Skyler Kansala
 
+Package: com.skylerk99.msgpin
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Skyler Kansala
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.msgpin_0.0.2_iphoneos-arm.deb
+Size: 3034
+Installed-Size: 168
+MD5sum: 1c9e9e31ca64df4fcc62f2429e0038d2
+Description: Pin Conversations in stock Messages app.
+Name: MsgPin
+Author: Skyler Kansala
+
 Package: com.skylerk99.musicMod
 Version: 1.6
 Section: Tweaks
