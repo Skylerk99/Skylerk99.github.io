@@ -41,6 +41,8 @@ my @fieldpri= ('Package',
 	       'Size',
 	       'Installed-Size',
 	       'MD5sum',
+               'SHA1',
+               'SHA256',
 	       'Description',
 	       'Origin',
 	       'Bugs',
@@ -177,6 +179,17 @@ FILE:
 	chop($_=<C>); close(C); $? and die sprintf(_g("\`md5sum < %s' exited with %d"), $fn, $?)."\n";
 	/^([0-9a-f]{32})\s*-?\s*$/ or die sprintf(_g("Strange text from \`md5sum < %s': \`%s'"), $fn, $_)."\n";
 	$tv{'MD5sum'}= $1;
+
+	open(C,"sha1sum <$fn |") || die "$fn $!";
+	chop($_=<C>); close(C); $? and die sprintf(_g("\`sha1sum < %s' exited with %d"), $fn, $?)."\n";
+	/^([0-9a-f]{40})\s*-?\s*$/ or die sprintf(_g("Strange text from \`sha1sum < %s': \`%s'"), $fn, $_)."\n";
+	$tv{'SHA1'}= $1;
+
+	open(C,"shasum -a 256 <$fn |") || die "$fn $!";
+	chop($_=<C>); close(C); $? and die sprintf(_g("\`shasum -a 256 < %s' exited with %d"), $fn, $?)."\n";
+	/^([0-9a-f]{64})\s*-?\s*$/ or die sprintf(_g("Strange text from \`shasum -a 256 < %s': \`%s'"), $fn, $_)."\n";
+	$tv{'SHA256'}= $1;
+
 	
 	my @stat= stat($fn) or die sprintf(_g("Couldn't stat %s: %s"), $fn, $!)."\n";
 	$stat[7] or die sprintf(_g("%s is empty"), $fn)."\n";
