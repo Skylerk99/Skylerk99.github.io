@@ -1642,6 +1642,22 @@ Description: Misc tweaks for 8.4 Apple Music. update 7
 Name: MusicMod-8.4
 Author: Skyler Kansala
 
+Package: com.skylerk99.mvs
+Version: 0.0.1
+Section: Tweaks
+Maintainer: skyler
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.mvs_0.0.1_iphoneos-arm.deb
+Size: 2962
+Installed-Size: 264
+MD5sum: a00846a7123fd6799430aaf22a74b83e
+SHA1: d58433c30dba2f399dc8735df90472be06aa59f8
+SHA256: e848afc4a471f1ba9a1794ea782793449e534404f6857073d4e4f5df96869c2c
+Description: Disable the auto fullscreen music videos
+Name: MVSkip
+Author: skylerk99
+
 Package: com.skylerk99.ncfloater
 Version: 0.1.3r
 Section: Tweaks
