@@ -1658,6 +1658,22 @@ Description: Disable the auto fullscreen music videos
 Name: MVSkip
 Author: skylerk99
 
+Package: com.skylerk99.mvs
+Version: 0.0.2
+Section: Tweaks
+Maintainer: skyler
+Depends: mobilesubstrate, com.modmyi.libswift4
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.skylerk99.mvs_0.0.2_iphoneos-arm.deb
+Size: 2974
+Installed-Size: 264
+MD5sum: abe24c1ffce1097a5bd04644f9442327
+SHA1: ea53bdd3be25e2aad7687bc0c8496fa872736f9a
+SHA256: 1dea4a9fffc7a3f9c9cbbb86cf7a570a2283fd06c1a8773ee25baed3ec779b6f
+Description: Disable the auto fullscreen music videos
+Name: MVSkip
+Author: skylerk99
+
 Package: com.skylerk99.ncfloater
 Version: 0.1.3r
 Section: Tweaks
