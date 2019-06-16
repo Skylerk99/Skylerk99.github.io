@@ -1642,38 +1642,6 @@ Description: Misc tweaks for 8.4 Apple Music. update 7
 Name: MusicMod-8.4
 Author: Skyler Kansala
 
-Package: com.skylerk99.mvs
-Version: 0.0.1
-Section: Tweaks
-Maintainer: skyler
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.mvs_0.0.1_iphoneos-arm.deb
-Size: 2962
-Installed-Size: 264
-MD5sum: a00846a7123fd6799430aaf22a74b83e
-SHA1: d58433c30dba2f399dc8735df90472be06aa59f8
-SHA256: e848afc4a471f1ba9a1794ea782793449e534404f6857073d4e4f5df96869c2c
-Description: Disable the auto fullscreen music videos
-Name: MVSkip
-Author: skylerk99
-
-Package: com.skylerk99.mvs
-Version: 0.0.2
-Section: Tweaks
-Maintainer: skyler
-Depends: mobilesubstrate, com.modmyi.libswift4
-Architecture: iphoneos-arm
-Filename: .//pkgfiles/com.skylerk99.mvs_0.0.2_iphoneos-arm.deb
-Size: 2974
-Installed-Size: 264
-MD5sum: abe24c1ffce1097a5bd04644f9442327
-SHA1: ea53bdd3be25e2aad7687bc0c8496fa872736f9a
-SHA256: 1dea4a9fffc7a3f9c9cbbb86cf7a570a2283fd06c1a8773ee25baed3ec779b6f
-Description: Disable the auto fullscreen music videos
-Name: MVSkip
-Author: skylerk99
-
 Package: com.skylerk99.ncfloater
 Version: 0.1.3r
 Section: Tweaks
